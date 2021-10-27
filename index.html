@@ -1,0 +1,185 @@
+<!DOCTYPE html>
+<html>
+   <head>
+      <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+       <meta name="viewport" content="width=device-width, initial-scale=1">
+      <title>Visrez Configurator</title>
+      <script src="https://code.jquery.com/jquery-3.1.1.min.js"></script>
+      <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/css/bootstrap.min.css" integrity="sha384-TX8t27EcRE3e/ihU7zmQxVncDAy5uIKz4rEkgIXeMed4M0jlfIDPvg6uqKI2xXr2" crossorigin="anonymous">
+      <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js"></script>
+      <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+      <script src="https://code.jquery.com/pep/0.4.3/pep.js"></script>
+      <link rel="stylesheet" href="style.css?version=2" />
+      <!-- Babylon.js -->
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/dat-gui/0.6.2/dat.gui.min.js"></script>
+      <script src="https://preview.babylonjs.com/ammo.js"></script>
+      <script src="https://preview.babylonjs.com/cannon.js"></script>
+      <script src="https://preview.babylonjs.com/Oimo.js"></script>
+      <script src="https://preview.babylonjs.com/earcut.min.js"></script>
+      <script src="https://preview.babylonjs.com/babylon.js"></script>
+      <script src="https://preview.babylonjs.com/materialsLibrary/babylonjs.materials.min.js"></script>
+      <script src="https://preview.babylonjs.com/proceduralTexturesLibrary/babylonjs.proceduralTextures.min.js"></script>
+      <script src="https://preview.babylonjs.com/postProcessesLibrary/babylonjs.postProcess.min.js"></script>
+      <script src="https://preview.babylonjs.com/loaders/babylonjs.loaders.js"></script>
+      <script src="https://preview.babylonjs.com/serializers/babylonjs.serializers.min.js"></script>
+      <script src="https://preview.babylonjs.com/gui/babylon.gui.min.js"></script>
+      <script src="https://preview.babylonjs.com/inspector/babylon.inspector.bundle.js"></script>
+      <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+      <script src="fauxLoad.js"></script>
+       
+       <link rel="apple-touch-icon" href="assets/textures/touch-icon-iphone.png">
+
+<link rel="apple-touch-icon" sizes="152x152" href="assets/textures/touch-icon-ipad.png">
+
+<link rel="apple-touch-icon" sizes="180x180" href="assets/textures/touch-icon-iphone-retina.png">
+
+<link rel="apple-touch-icon" sizes="167x167" href="assets/textures/touch-icon-ipad-retina.png">
+   </head>
+   <body>
+      <div id="beginBanner" class="DeviceMotionRequestBanner">
+         <h3>Enable DeviceMotion?</h3>
+         <p>Visrez requires you to enable DeviceMotion</p>
+         <button onclick="ClickRequestDeviceMotionEvent()">Enable</button>
+         <span class="visrez-prompt-logo"><img src="assets/textures/visrez-logo.png"/></span>
+      </div>
+           
+      <!-- Share Modal -->
+      <div class="modal fade" id="shareModal" tabindex="-1" aria-labelledby="shareModalLabel" aria-hidden="true" >
+         <div class="modal-dialog">
+            <div class="modal-content">
+               <div class="modal-header">
+                  <a href="https://www.visrez.com" target="_blank">
+                  <img  src="assets/textures/visrez-logo.png" class="img-fluid" id="shareModalLabel" alt="Visrez Logo"> </a>
+                  <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                  <span aria-hidden="true" >&times;</span>
+                  </button>
+               </div>
+               <div class="modal-body">
+                  <div class="d-flex">
+                     <div class="p-2 flex-grow-1">
+                        <input type="text" class="form-control" placeholder="Share Link" id="inputShare">
+                     </div>
+                     <button id="copyLink" type="button" class="p-2" onclick="copyLink()" title="Copy Link"  >
+                        <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="currentColor" class="bi bi-link-45deg" viewBox="0 0 16 16" >
+                           <path d="M4.715 6.542 3.343 7.914a3 3 0 1 0 4.243 4.243l1.828-1.829A3 3 0 0 0 8.586 5.5L8 6.086a1.002 1.002 0 0 0-.154.199 2 2 0 0 1 .861 3.337L6.88 11.45a2 2 0 1 1-2.83-2.83l.793-.792a4.018 4.018 0 0 1-.128-1.287z"/>
+                           <path d="M6.586 4.672A3 3 0 0 0 7.414 9.5l.775-.776a2 2 0 0 1-.896-3.346L9.12 3.55a2 2 0 1 1 2.83 2.83l-.793.792c.112.42.155.855.128 1.287l1.372-1.372a3 3 0 1 0-4.243-4.243L6.586 4.672z"/>
+                        </svg>
+                     </button>
+                  </div>
+               </div>
+               <div class="modal-footer">
+                  <p class="text-center">Select the URL and copy &amp; paste to share</p>
+               </div>
+            </div>
+         </div>
+      </div>
+      <!-- Gallery Modal -->
+      <div class="modal fade" id="galleryModal" tabindex="-1" aria-labelledby="galleryModalLabel" aria-hidden="true" >
+         <div class="modal-dialog">
+            <div class="modal-content">
+               <div class="modal-header">
+                  <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                  <span aria-hidden="true" >&times;</span>
+                  </button>
+               </div>
+               <div class="modal-body">
+                  <div id="carouselGallery" class="carousel slide carouselSlide" data-ride="carousel">
+                     <ol class="carousel-indicators">
+                        <li data-target="#carouselGallery" data-slide-to="0" class="active"></li>
+                        <li data-target="#carouselGallery" data-slide-to="1"></li>
+                        <li data-target="#carouselGallery" data-slide-to="2"></li>
+                     </ol>
+                     <div class="carousel-inner">
+                        <div class="carousel-item active">
+                           <img src="https://s3.eu-west-1.amazonaws.com/vz.orders/production/preview_items/images/images/000/041/816/web_app/lo_salone_dei_cavalieri_section_1234_banquet_medium.png" class="d-block w-100" alt="...">
+                        </div>
+                        <div class="carousel-item">
+                           <img src="https://s3.eu-west-1.amazonaws.com/vz.orders/production/preview_items/images/images/000/051/995/web_app/vs_penthouse_suite_view_1.png" class="d-block w-100" alt="...">
+                        </div>
+                        <div class="carousel-item">
+                           <img src="https://s3.eu-west-1.amazonaws.com/vz.orders/production/preview_items/images/images/000/041/816/web_app/lo_salone_dei_cavalieri_section_1234_banquet_medium.png" class="d-block w-100" alt="...">
+                        </div>
+                     </div>
+                     <a class="carousel-control-prev" href="#carouselGallery" role="button" data-slide="prev">
+                     <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                     <span class="sr-only">Previous</span>
+                     </a>
+                     <a class="carousel-control-next" href="#carouselGallery" role="button" data-slide="next">
+                     <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                     <span class="sr-only">Next</span>
+                     </a>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </div>
+      <div id="collapseTitleMenu" class="d-flex animation out">
+         <div  class="p2">
+            <div class="d-flex flex-column justify-content-center">
+               <a href="https://www.visrez.com" target="_blank" class="p2 flex-fill"><img  src="assets/textures/logo.png" class="img-fluid" alt="Logo"></a>
+               <p class="p2 text-center font-weight-bold" style="margin-bottom: 0">Title</p>
+               <p class="p2 text-center" >Location</p>
+            </div>
+         </div>
+         <div class = "p2">
+            <button type="button"  onclick="toggleTitleSlider()" title="Hide Details" >
+               <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-caret-left" viewBox="0 0 16 16">
+                  <path d="M10 12.796V3.204L4.519 8 10 12.796zm-.659.753-5.48-4.796a1 1 0 0 1 0-1.506l5.48-4.796A1 1 0 0 1 11 3.204v9.592a1 1 0 0 1-1.659.753z"/>
+               </svg>
+            </button>
+         </div>
+      </div>
+      <div class="animation out" id="collapseMainMenu">
+         <div  id="mainMenuSmall">
+            <button  type="button" id="toggleStylesButon" onclick="toggleMainSlider(this)" title="Hide Styles" style="pointer-events: all">
+               <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="currentColor" class="bi bi-chevron-down" viewBox="0 0 16 16">
+                  <path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z"/>
+               </svg>
+            </button>
+             <div style="float: right">
+            <button  type="button" id="fullScButton" onclick="fullSc(this, true)" title="FullScreen">
+               <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="currentColor" class="bi bi-arrows-fullscreen" viewBox="0 0 16 16">
+                  <path fill-rule="evenodd" d="M5.828 10.172a.5.5 0 0 0-.707 0l-4.096 4.096V11.5a.5.5 0 0 0-1 0v3.975a.5.5 0 0 0 .5.5H4.5a.5.5 0 0 0 0-1H1.732l4.096-4.096a.5.5 0 0 0 0-.707zm4.344 0a.5.5 0 0 1 .707 0l4.096 4.096V11.5a.5.5 0 1 1 1 0v3.975a.5.5 0 0 1-.5.5H11.5a.5.5 0 0 1 0-1h2.768l-4.096-4.096a.5.5 0 0 1 0-.707zm0-4.344a.5.5 0 0 0 .707 0l4.096-4.096V4.5a.5.5 0 1 0 1 0V.525a.5.5 0 0 0-.5-.5H11.5a.5.5 0 0 0 0 1h2.768l-4.096 4.096a.5.5 0 0 0 0 .707zm-4.344 0a.5.5 0 0 1-.707 0L1.025 1.732V4.5a.5.5 0 0 1-1 0V.525a.5.5 0 0 1 .5-.5H4.5a.5.5 0 0 1 0 1H1.732l4.096 4.096a.5.5 0 0 1 0 .707z"/>
+               </svg>
+            </button>
+            <button  type="button" onclick="share()" id="shareButton" title="Share" data-toggle="modal" data-target="#shareModal">
+               <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="currentColor" class="bi bi-share-fill" viewBox="0 0 16 16">
+                  <path d="M11 2.5a2.5 2.5 0 1 1 .603 1.628l-6.718 3.12a2.499 2.499 0 0 1 0 1.504l6.718 3.12a2.5 2.5 0 1 1-.488.876l-6.718-3.12a2.5 2.5 0 1 1 0-3.256l6.718-3.12A2.5 2.5 0 0 1 11 2.5z"/>
+               </svg>
+            </button>
+            <button  type="button" onclick="showGallery()" id="galleryButton" title="Gallery" data-toggle="modal" data-target="#galleryModal">
+               <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="currentColor" class="bi bi-camera" viewBox="0 0 16 16">
+                  <path d="M15 12a1 1 0 0 1-1 1H2a1 1 0 0 1-1-1V6a1 1 0 0 1 1-1h1.172a3 3 0 0 0 2.12-.879l.83-.828A1 1 0 0 1 6.827 3h2.344a1 1 0 0 1 .707.293l.828.828A3 3 0 0 0 12.828 5H14a1 1 0 0 1 1 1v6zM2 4a2 2 0 0 0-2 2v6a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V6a2 2 0 0 0-2-2h-1.172a2 2 0 0 1-1.414-.586l-.828-.828A2 2 0 0 0 9.172 2H6.828a2 2 0 0 0-1.414.586l-.828.828A2 2 0 0 1 3.172 4H2z"/>
+                  <path d="M8 11a2.5 2.5 0 1 1 0-5 2.5 2.5 0 0 1 0 5zm0 1a3.5 3.5 0 1 0 0-7 3.5 3.5 0 0 0 0 7zM3 6.5a.5.5 0 1 1-1 0 .5.5 0 0 1 1 0z"/>
+               </svg>
+            </button>
+            <button  type="button" onclick="toggleAmbient(this)"  id="toggleAmbientButton" title="Switch Ambient">
+               <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="currentColor" class="bi bi-lightbulb" viewBox="0 0 16 16">
+                  <path d="M2 6a6 6 0 1 1 10.174 4.31c-.203.196-.359.4-.453.619l-.762 1.769A.5.5 0 0 1 10.5 13a.5.5 0 0 1 0 1 .5.5 0 0 1 0 1l-.224.447a1 1 0 0 1-.894.553H6.618a1 1 0 0 1-.894-.553L5.5 15a.5.5 0 0 1 0-1 .5.5 0 0 1 0-1 .5.5 0 0 1-.46-.302l-.761-1.77a1.964 1.964 0 0 0-.453-.618A5.984 5.984 0 0 1 2 6zm6-5a5 5 0 0 0-3.479 8.592c.263.254.514.564.676.941L5.83 12h4.342l.632-1.467c.162-.377.413-.687.676-.941A5 5 0 0 0 8 1z"/>
+               </svg>
+            </button>
+            <button  type="button" onclick="toggleCapSlider(this)"  id="toggleCapSliderButton" title="Switch Capacity">
+               <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="currentColor" class="bi bi-people" viewBox="0 0 16 16">
+                  <path d="M15 14s1 0 1-1-1-4-5-4-5 3-5 4 1 1 1 1h8zm-7.978-1A.261.261 0 0 1 7 12.996c.001-.264.167-1.03.76-1.72C8.312 10.629 9.282 10 11 10c1.717 0 2.687.63 3.24 1.276.593.69.758 1.457.76 1.72l-.008.002a.274.274 0 0 1-.014.002H7.022zM11 7a2 2 0 1 0 0-4 2 2 0 0 0 0 4zm3-2a3 3 0 1 1-6 0 3 3 0 0 1 6 0zM6.936 9.28a5.88 5.88 0 0 0-1.23-.247A7.35 7.35 0 0 0 5 9c-4 0-5 3-5 4 0 .667.333 1 1 1h4.216A2.238 2.238 0 0 1 5 13c0-1.01.377-2.042 1.09-2.904.243-.294.526-.569.846-.816zM4.92 10A5.493 5.493 0 0 0 4 13H1c0-.26.164-1.03.76-1.724.545-.636 1.492-1.256 3.16-1.275zM1.5 5.5a3 3 0 1 1 6 0 3 3 0 0 1-6 0zm3-2a2 2 0 1 0 0 4 2 2 0 0 0 0-4z"/>
+               </svg>
+            </button>
+                 </div>
+            <div class="animation out" id="collapseCapacities">
+            </div>
+         </div>
+         <div id="styleButtons"></div>
+      </div>
+      <div class="d-flex justify-content-center" id="logoDiv">
+         <img src="assets/textures/logo.png" class="img-fluid" alt="Logo">
+      </div>
+      <div class="d-flex justify-content-center" id="loadingDiv">
+         <div class="spinner-border" role="status">
+            <span class="sr-only">Loading...</span>
+         </div>
+      </div>
+      
+      <canvas id="renderCanvas"></canvas>
+   </body>
+   <script src="script.js"></script>
+</html>

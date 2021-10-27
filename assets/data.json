@@ -1,0 +1,331 @@
+{
+	"title": "Belmond Hotel",
+	"subTitle": "Ground Floor",
+	"logoLink": "https://www.belmond.com/hotels/europe/italy/amalfi-coast/belmond-hotel-caruso/",
+	"thumbLink": "thumbnail.png",
+	"uiColor": "#2e2e2e",
+	"locations": {
+		"Ground Floor Terrace": {
+			"styles": {
+				"style1": {
+					"capacities": {
+						"capacity1": {
+							"ambients": {
+								"ambient1": {
+									"source": "https://s3.eu-west-1.amazonaws.com/vz.orders/production/preview_items/vr_images/images/000/010/252/b/vr_villa_margherita_ground_floor_vr_1_view_1.jpg",
+									"loaded": false
+								}
+							},
+							"gallery": [
+								"https://s3.eu-west-1.amazonaws.com/vz.orders/production/preview_items/images/images/000/081/411/web_app/vs_villa_margherita_ground_floor_1_terrace.png?response-content-disposition=attachment&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAVUIPV5P3W53LGQUB%2F20211027%2Feu-west-1%2Fs3%2Faws4_request&X-Amz-Date=20211027T120428Z&X-Amz-Expires=900&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEPP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCWV1LXdlc3QtMSJGMEQCIA0o9ZIxOcKbHr8%2F3UzyRcQ0iaJHNFkS1aw%2By%2FTQT%2BjNAiAvhzoJq4PFxWMIdS8ebCo1BLP0DW8Zh7DJrtAdmMButyqDBAiM%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDM4NzExNjgyMTQ5NSIM2FeYQ9VSK1Zn8xzAKtcDwiR9RMQZFTqVKLx73c0fbjNm0bzvE17LH5YBRoAdj7IXeVWFvvfmmMcr1n8O5QyXQtl7AtvXjTpJ6AkfZca9MXa3UNgDKV6vlP6czgITwnweLmPxcEdMjeUBRfPR3zjJ0dZuzeOghsy%2BMAPpcbNl6o6U4%2ByUMOZQdkQN6elePxCxht5sMb7Odk6AxBPT1Ga0UmcEid3BMvrSz315u7zDZtIc9yMsGXDK1StxGXYLflryD8HcNbpZMby7cdAX9MM47UJj8qoUoDPvX2%2BBVBL2IeWaK71sU%2BXlb%2FxpCgN8awRj5hrYOaB06s976dMUWCY3w%2Fe1Os2i5haSHfNRnHLO7ByhiXXhH44Q6XuISDo3RT0XbX%2FjnSdZr3PSFzud%2BJixT0HJE3CfqXlMOD%2FPrr8ebG9kIIypoeCyFqLujheoXDhJAFiTExotlhoZFdjnVv57m1MwA7byGMcOsZysB%2B2syEOc%2FmMsgAROQdZnr89CUlYv0R5VCcgdQDaaxc%2FBuMFhDGVBctA4eSQnIUhiqHNZ7eKPER3ydR20OcBawURgz2SfQ9UDvDmQvri%2B7fHRnx6Dvat8PDLmP33tw%2BoTbkH38fg2q%2FXvxAJlift3FVLlcY9sqpv1FaMdMOLi5IsGOqYBZjXR0axzylMnjwpuCOsU56z%2FKDmK%2F0TuANpmtsqFINTX9CmEig1csREKYYe4mwXDlH4RLygGHdu%2FkzZcKxrIMoHPEEi%2Fmmh5tefjdJsI4uRR5rIk038eEGR97SzrncCDnksnPJV5FSjLI1R7y%2FpZyn2BvoN2Adp%2BpFRuJrPs5jzexG5ZFBxbkUURDakOtdovdyo4CsBLg0aHsWafVoDFDxQKTYoN4g%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=759c603cd993228aff67dc630ed4f721b05245c6ccc2227b49e0c153372376cb"
+							]
+						}
+					}
+				}
+			},
+			"links": [
+				{
+					"link": "Hall Entrance",
+					"name": "Hall Entrance",
+					"x": 4.410134938985479,
+					"y": -0.8399899952239834,
+					"z": 11.128572533252555
+				}
+			]
+		},
+		"Hall Entrance": {
+			"styles": {
+				"style1": {
+					"capacities": {
+						"capacity1": {
+							"ambients": {
+								"ambient1": {
+									"source": "https://s3.eu-west-1.amazonaws.com/vz.orders/production/preview_items/vr_images/images/000/010/257/b/vr_villa_margherita_ground_floor_vr_2_view_1.jpg",
+									"loaded": false
+								}
+							},
+							"gallery": [
+								"https://s3.eu-west-1.amazonaws.com/vz.orders/production/preview_items/images/images/000/083/530/web_app/vs_villa_margherita_ground_floor_2_hall_entrance.png?response-content-disposition=attachment&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAVUIPV5P3W53LGQUB%2F20211027%2Feu-west-1%2Fs3%2Faws4_request&X-Amz-Date=20211027T120451Z&X-Amz-Expires=900&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEPP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCWV1LXdlc3QtMSJGMEQCIA0o9ZIxOcKbHr8%2F3UzyRcQ0iaJHNFkS1aw%2By%2FTQT%2BjNAiAvhzoJq4PFxWMIdS8ebCo1BLP0DW8Zh7DJrtAdmMButyqDBAiM%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDM4NzExNjgyMTQ5NSIM2FeYQ9VSK1Zn8xzAKtcDwiR9RMQZFTqVKLx73c0fbjNm0bzvE17LH5YBRoAdj7IXeVWFvvfmmMcr1n8O5QyXQtl7AtvXjTpJ6AkfZca9MXa3UNgDKV6vlP6czgITwnweLmPxcEdMjeUBRfPR3zjJ0dZuzeOghsy%2BMAPpcbNl6o6U4%2ByUMOZQdkQN6elePxCxht5sMb7Odk6AxBPT1Ga0UmcEid3BMvrSz315u7zDZtIc9yMsGXDK1StxGXYLflryD8HcNbpZMby7cdAX9MM47UJj8qoUoDPvX2%2BBVBL2IeWaK71sU%2BXlb%2FxpCgN8awRj5hrYOaB06s976dMUWCY3w%2Fe1Os2i5haSHfNRnHLO7ByhiXXhH44Q6XuISDo3RT0XbX%2FjnSdZr3PSFzud%2BJixT0HJE3CfqXlMOD%2FPrr8ebG9kIIypoeCyFqLujheoXDhJAFiTExotlhoZFdjnVv57m1MwA7byGMcOsZysB%2B2syEOc%2FmMsgAROQdZnr89CUlYv0R5VCcgdQDaaxc%2FBuMFhDGVBctA4eSQnIUhiqHNZ7eKPER3ydR20OcBawURgz2SfQ9UDvDmQvri%2B7fHRnx6Dvat8PDLmP33tw%2BoTbkH38fg2q%2FXvxAJlift3FVLlcY9sqpv1FaMdMOLi5IsGOqYBZjXR0axzylMnjwpuCOsU56z%2FKDmK%2F0TuANpmtsqFINTX9CmEig1csREKYYe4mwXDlH4RLygGHdu%2FkzZcKxrIMoHPEEi%2Fmmh5tefjdJsI4uRR5rIk038eEGR97SzrncCDnksnPJV5FSjLI1R7y%2FpZyn2BvoN2Adp%2BpFRuJrPs5jzexG5ZFBxbkUURDakOtdovdyo4CsBLg0aHsWafVoDFDxQKTYoN4g%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=95889536fd75971d4b71afdb8cc612534b57edf88e122d467ea1a2f888376c79"
+							]
+						}
+					}
+				}
+			},
+			"links": [
+				{
+					"link": "Living Room",
+					"name": "Living Room",
+					"x": -0.2329898695410132,
+					"y": -0.20230937610157085,
+					"z": -11.996032120540221
+				},
+				{
+					"link": "Bathroom 1",
+					"name": "Ensuite Bathroom",
+					"x": 11.833854710918182,
+					"y": -1.3761204820575503,
+					"z": -1.437419597661476
+				},
+				{
+					"link": "Bathroom 2",
+					"name": "Shower Room",
+					"x": -4.460972960208244,
+					"y": -1.776683019086341,
+					"z": -10.997414136876957
+				}
+			]
+		},
+		"Living Room": {
+			"styles": {
+				"style1": {
+					"capacities": {
+						"capacity1": {
+							"ambients": {
+								"ambient1": {
+									"source": "https://s3.eu-west-1.amazonaws.com/vz.orders/production/preview_items/vr_images/images/000/010/263/b/vr_villa_margherita_ground_floor_vr_3_view_1.jpg",
+									"loaded": false
+								}
+							},
+							"gallery": [
+								"https://s3.eu-west-1.amazonaws.com/vz.orders/production/preview_items/images/images/000/083/531/web_app/vs_villa_margherita_ground_floor_3_living_room.png?response-content-disposition=attachment&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAVUIPV5P3W53LGQUB%2F20211027%2Feu-west-1%2Fs3%2Faws4_request&X-Amz-Date=20211027T120506Z&X-Amz-Expires=900&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEPP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCWV1LXdlc3QtMSJGMEQCIA0o9ZIxOcKbHr8%2F3UzyRcQ0iaJHNFkS1aw%2By%2FTQT%2BjNAiAvhzoJq4PFxWMIdS8ebCo1BLP0DW8Zh7DJrtAdmMButyqDBAiM%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDM4NzExNjgyMTQ5NSIM2FeYQ9VSK1Zn8xzAKtcDwiR9RMQZFTqVKLx73c0fbjNm0bzvE17LH5YBRoAdj7IXeVWFvvfmmMcr1n8O5QyXQtl7AtvXjTpJ6AkfZca9MXa3UNgDKV6vlP6czgITwnweLmPxcEdMjeUBRfPR3zjJ0dZuzeOghsy%2BMAPpcbNl6o6U4%2ByUMOZQdkQN6elePxCxht5sMb7Odk6AxBPT1Ga0UmcEid3BMvrSz315u7zDZtIc9yMsGXDK1StxGXYLflryD8HcNbpZMby7cdAX9MM47UJj8qoUoDPvX2%2BBVBL2IeWaK71sU%2BXlb%2FxpCgN8awRj5hrYOaB06s976dMUWCY3w%2Fe1Os2i5haSHfNRnHLO7ByhiXXhH44Q6XuISDo3RT0XbX%2FjnSdZr3PSFzud%2BJixT0HJE3CfqXlMOD%2FPrr8ebG9kIIypoeCyFqLujheoXDhJAFiTExotlhoZFdjnVv57m1MwA7byGMcOsZysB%2B2syEOc%2FmMsgAROQdZnr89CUlYv0R5VCcgdQDaaxc%2FBuMFhDGVBctA4eSQnIUhiqHNZ7eKPER3ydR20OcBawURgz2SfQ9UDvDmQvri%2B7fHRnx6Dvat8PDLmP33tw%2BoTbkH38fg2q%2FXvxAJlift3FVLlcY9sqpv1FaMdMOLi5IsGOqYBZjXR0axzylMnjwpuCOsU56z%2FKDmK%2F0TuANpmtsqFINTX9CmEig1csREKYYe4mwXDlH4RLygGHdu%2FkzZcKxrIMoHPEEi%2Fmmh5tefjdJsI4uRR5rIk038eEGR97SzrncCDnksnPJV5FSjLI1R7y%2FpZyn2BvoN2Adp%2BpFRuJrPs5jzexG5ZFBxbkUURDakOtdovdyo4CsBLg0aHsWafVoDFDxQKTYoN4g%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=77815fb710306b795a02c57453cd860c2aca63f1b424a4ffd1d335a84057f082"
+							]
+						}
+					}
+				}
+			},
+			"links": [
+				{
+					"link": "Hall Entrance",
+					"name": "Hall Entrance",
+					"x": -11.717523792554438,
+					"y": -1.210842805553247,
+					"z": 2.2876835163895857
+				},
+				{
+					"link": "Bedroom",
+					"name": "Bedroom",
+					"x": 0.7974626722233777,
+					"y": -0.7697458865461191,
+					"z": 11.948704722962892
+				}
+			]
+		},
+		"Bedroom": {
+			"styles": {
+				"style1": {
+					"capacities": {
+						"capacity1": {
+							"ambients": {
+								"ambient1": {
+									"source": "https://s3.eu-west-1.amazonaws.com/vz.orders/production/preview_items/vr_images/images/000/010/262/b/vr_villa_margherita_ground_floor_vr_4_view_1.jpg",
+									"loaded": false
+								}
+							},
+							"gallery": [
+								"https://s3.eu-west-1.amazonaws.com/vz.orders/production/preview_items/images/images/000/081/410/web_app/vs_villa_margherita_ground_floor_4_bedroom.png?response-content-disposition=attachment&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAVUIPV5P3W53LGQUB%2F20211027%2Feu-west-1%2Fs3%2Faws4_request&X-Amz-Date=20211027T120521Z&X-Amz-Expires=900&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEPP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCWV1LXdlc3QtMSJGMEQCIA0o9ZIxOcKbHr8%2F3UzyRcQ0iaJHNFkS1aw%2By%2FTQT%2BjNAiAvhzoJq4PFxWMIdS8ebCo1BLP0DW8Zh7DJrtAdmMButyqDBAiM%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDM4NzExNjgyMTQ5NSIM2FeYQ9VSK1Zn8xzAKtcDwiR9RMQZFTqVKLx73c0fbjNm0bzvE17LH5YBRoAdj7IXeVWFvvfmmMcr1n8O5QyXQtl7AtvXjTpJ6AkfZca9MXa3UNgDKV6vlP6czgITwnweLmPxcEdMjeUBRfPR3zjJ0dZuzeOghsy%2BMAPpcbNl6o6U4%2ByUMOZQdkQN6elePxCxht5sMb7Odk6AxBPT1Ga0UmcEid3BMvrSz315u7zDZtIc9yMsGXDK1StxGXYLflryD8HcNbpZMby7cdAX9MM47UJj8qoUoDPvX2%2BBVBL2IeWaK71sU%2BXlb%2FxpCgN8awRj5hrYOaB06s976dMUWCY3w%2Fe1Os2i5haSHfNRnHLO7ByhiXXhH44Q6XuISDo3RT0XbX%2FjnSdZr3PSFzud%2BJixT0HJE3CfqXlMOD%2FPrr8ebG9kIIypoeCyFqLujheoXDhJAFiTExotlhoZFdjnVv57m1MwA7byGMcOsZysB%2B2syEOc%2FmMsgAROQdZnr89CUlYv0R5VCcgdQDaaxc%2FBuMFhDGVBctA4eSQnIUhiqHNZ7eKPER3ydR20OcBawURgz2SfQ9UDvDmQvri%2B7fHRnx6Dvat8PDLmP33tw%2BoTbkH38fg2q%2FXvxAJlift3FVLlcY9sqpv1FaMdMOLi5IsGOqYBZjXR0axzylMnjwpuCOsU56z%2FKDmK%2F0TuANpmtsqFINTX9CmEig1csREKYYe4mwXDlH4RLygGHdu%2FkzZcKxrIMoHPEEi%2Fmmh5tefjdJsI4uRR5rIk038eEGR97SzrncCDnksnPJV5FSjLI1R7y%2FpZyn2BvoN2Adp%2BpFRuJrPs5jzexG5ZFBxbkUURDakOtdovdyo4CsBLg0aHsWafVoDFDxQKTYoN4g%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=ddaf0bcda6c403e633259f58b499d5766e0d8cc999536f102ed3bcaefaa6acd5"
+							]
+						}
+					}
+				}
+			},
+			"links": [
+				{
+					"link": "Living Room",
+					"name": "Living Room",
+					"x": 11.96809042377997,
+					"y": -0.7530032774866919,
+					"z": -0.4447445022937695
+				},
+				{
+					"link": "Bathroom 1",
+					"name": "Ensuite Bathroom",
+					"x": 7.360130502778617,
+					"y": -1.2429062751536812,
+					"z": -9.395938642480134
+				}
+			]
+		},
+		"Bathroom 1": {
+			"styles": {
+				"style1": {
+					"capacities": {
+						"capacity1": {
+							"ambients": {
+								"ambient1": {
+									"source": "https://s3.eu-west-1.amazonaws.com/vz.orders/production/preview_items/vr_images/images/000/010/270/b/vr_villa_margherita_ground_floor_vr_5_view_1.jpg",
+									"loaded": false
+								}
+							},
+							"gallery": [
+								"https://s3.eu-west-1.amazonaws.com/vz.orders/production/preview_items/images/images/000/083/532/web_app/vs_villa_margherita_ground_floor_5_bathroom.png?response-content-disposition=attachment&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAVUIPV5P3W53LGQUB%2F20211027%2Feu-west-1%2Fs3%2Faws4_request&X-Amz-Date=20211027T120540Z&X-Amz-Expires=900&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEPP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCWV1LXdlc3QtMSJGMEQCIA0o9ZIxOcKbHr8%2F3UzyRcQ0iaJHNFkS1aw%2By%2FTQT%2BjNAiAvhzoJq4PFxWMIdS8ebCo1BLP0DW8Zh7DJrtAdmMButyqDBAiM%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDM4NzExNjgyMTQ5NSIM2FeYQ9VSK1Zn8xzAKtcDwiR9RMQZFTqVKLx73c0fbjNm0bzvE17LH5YBRoAdj7IXeVWFvvfmmMcr1n8O5QyXQtl7AtvXjTpJ6AkfZca9MXa3UNgDKV6vlP6czgITwnweLmPxcEdMjeUBRfPR3zjJ0dZuzeOghsy%2BMAPpcbNl6o6U4%2ByUMOZQdkQN6elePxCxht5sMb7Odk6AxBPT1Ga0UmcEid3BMvrSz315u7zDZtIc9yMsGXDK1StxGXYLflryD8HcNbpZMby7cdAX9MM47UJj8qoUoDPvX2%2BBVBL2IeWaK71sU%2BXlb%2FxpCgN8awRj5hrYOaB06s976dMUWCY3w%2Fe1Os2i5haSHfNRnHLO7ByhiXXhH44Q6XuISDo3RT0XbX%2FjnSdZr3PSFzud%2BJixT0HJE3CfqXlMOD%2FPrr8ebG9kIIypoeCyFqLujheoXDhJAFiTExotlhoZFdjnVv57m1MwA7byGMcOsZysB%2B2syEOc%2FmMsgAROQdZnr89CUlYv0R5VCcgdQDaaxc%2FBuMFhDGVBctA4eSQnIUhiqHNZ7eKPER3ydR20OcBawURgz2SfQ9UDvDmQvri%2B7fHRnx6Dvat8PDLmP33tw%2BoTbkH38fg2q%2FXvxAJlift3FVLlcY9sqpv1FaMdMOLi5IsGOqYBZjXR0axzylMnjwpuCOsU56z%2FKDmK%2F0TuANpmtsqFINTX9CmEig1csREKYYe4mwXDlH4RLygGHdu%2FkzZcKxrIMoHPEEi%2Fmmh5tefjdJsI4uRR5rIk038eEGR97SzrncCDnksnPJV5FSjLI1R7y%2FpZyn2BvoN2Adp%2BpFRuJrPs5jzexG5ZFBxbkUURDakOtdovdyo4CsBLg0aHsWafVoDFDxQKTYoN4g%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=96046cbff963bdad4115227e3ea0457e8209d1a1289c1d36840a712e628861ff"
+							]
+						}
+					}
+				}
+			},
+			"links": [
+				{
+					"link": "Hall Entrance",
+					"name": "Hall Entrance",
+					"x": 0.12294647613511751,
+					"y": -0.9093912923477032,
+					"z": 11.964860702967172
+				}
+			]
+		},
+		"Bathroom 2": {
+			"styles": {
+				"style1": {
+					"capacities": {
+						"capacity1": {
+							"ambients": {
+								"ambient1": {
+									"source": "https://s3.eu-west-1.amazonaws.com/vz.orders/production/preview_items/vr_images/images/000/010/266/b/vr_villa_margherita_ground_floor_vr_6_view_1.jpg",
+									"loaded": false
+								}
+							},
+							"gallery": [
+								"https://s3.eu-west-1.amazonaws.com/vz.orders/production/preview_items/images/images/000/081/408/web_app/vs_villa_margherita_ground_floor_6_bathroom.png?response-content-disposition=attachment&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAVUIPV5P3W53LGQUB%2F20211027%2Feu-west-1%2Fs3%2Faws4_request&X-Amz-Date=20211027T120607Z&X-Amz-Expires=900&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEPP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCWV1LXdlc3QtMSJGMEQCIA0o9ZIxOcKbHr8%2F3UzyRcQ0iaJHNFkS1aw%2By%2FTQT%2BjNAiAvhzoJq4PFxWMIdS8ebCo1BLP0DW8Zh7DJrtAdmMButyqDBAiM%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDM4NzExNjgyMTQ5NSIM2FeYQ9VSK1Zn8xzAKtcDwiR9RMQZFTqVKLx73c0fbjNm0bzvE17LH5YBRoAdj7IXeVWFvvfmmMcr1n8O5QyXQtl7AtvXjTpJ6AkfZca9MXa3UNgDKV6vlP6czgITwnweLmPxcEdMjeUBRfPR3zjJ0dZuzeOghsy%2BMAPpcbNl6o6U4%2ByUMOZQdkQN6elePxCxht5sMb7Odk6AxBPT1Ga0UmcEid3BMvrSz315u7zDZtIc9yMsGXDK1StxGXYLflryD8HcNbpZMby7cdAX9MM47UJj8qoUoDPvX2%2BBVBL2IeWaK71sU%2BXlb%2FxpCgN8awRj5hrYOaB06s976dMUWCY3w%2Fe1Os2i5haSHfNRnHLO7ByhiXXhH44Q6XuISDo3RT0XbX%2FjnSdZr3PSFzud%2BJixT0HJE3CfqXlMOD%2FPrr8ebG9kIIypoeCyFqLujheoXDhJAFiTExotlhoZFdjnVv57m1MwA7byGMcOsZysB%2B2syEOc%2FmMsgAROQdZnr89CUlYv0R5VCcgdQDaaxc%2FBuMFhDGVBctA4eSQnIUhiqHNZ7eKPER3ydR20OcBawURgz2SfQ9UDvDmQvri%2B7fHRnx6Dvat8PDLmP33tw%2BoTbkH38fg2q%2FXvxAJlift3FVLlcY9sqpv1FaMdMOLi5IsGOqYBZjXR0axzylMnjwpuCOsU56z%2FKDmK%2F0TuANpmtsqFINTX9CmEig1csREKYYe4mwXDlH4RLygGHdu%2FkzZcKxrIMoHPEEi%2Fmmh5tefjdJsI4uRR5rIk038eEGR97SzrncCDnksnPJV5FSjLI1R7y%2FpZyn2BvoN2Adp%2BpFRuJrPs5jzexG5ZFBxbkUURDakOtdovdyo4CsBLg0aHsWafVoDFDxQKTYoN4g%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=a0dd698b71f95bbfd19d9c18a0689b7015e18415f08de00af261fa8d370c4076"
+							]
+						}
+					}
+				}
+			},
+			"links": [
+				{
+					"link": "Hall Entrance",
+					"name": "Hall Entrance",
+					"x": 0.8628013110702026,
+					"y": -1.3028404233441728,
+					"z": 11.897822520483146
+				}
+			]
+		},
+		"1st Floor Bedroom": {
+			"styles": {
+				"style1": {
+					"capacities": {
+						"capacity1": {
+							"ambients": {
+								"ambient1": {
+									"source": "https://s3.eu-west-1.amazonaws.com/vz.orders/production/preview_items/vr_images/images/000/010/272/b/vr_villa_margherita_first_floor_vr_7_view_1.jpg",
+									"loaded": false
+								}
+							},
+							"gallery": [
+								"https://s3.eu-west-1.amazonaws.com/vz.orders/production/preview_items/images/images/000/082/142/web_app/vs_villa_margherita_first_floor_10_bedroom.png?response-content-disposition=attachment&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAVUIPV5P3W53LGQUB%2F20211027%2Feu-west-1%2Fs3%2Faws4_request&X-Amz-Date=20211027T120751Z&X-Amz-Expires=900&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEPP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCWV1LXdlc3QtMSJGMEQCIA0o9ZIxOcKbHr8%2F3UzyRcQ0iaJHNFkS1aw%2By%2FTQT%2BjNAiAvhzoJq4PFxWMIdS8ebCo1BLP0DW8Zh7DJrtAdmMButyqDBAiM%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDM4NzExNjgyMTQ5NSIM2FeYQ9VSK1Zn8xzAKtcDwiR9RMQZFTqVKLx73c0fbjNm0bzvE17LH5YBRoAdj7IXeVWFvvfmmMcr1n8O5QyXQtl7AtvXjTpJ6AkfZca9MXa3UNgDKV6vlP6czgITwnweLmPxcEdMjeUBRfPR3zjJ0dZuzeOghsy%2BMAPpcbNl6o6U4%2ByUMOZQdkQN6elePxCxht5sMb7Odk6AxBPT1Ga0UmcEid3BMvrSz315u7zDZtIc9yMsGXDK1StxGXYLflryD8HcNbpZMby7cdAX9MM47UJj8qoUoDPvX2%2BBVBL2IeWaK71sU%2BXlb%2FxpCgN8awRj5hrYOaB06s976dMUWCY3w%2Fe1Os2i5haSHfNRnHLO7ByhiXXhH44Q6XuISDo3RT0XbX%2FjnSdZr3PSFzud%2BJixT0HJE3CfqXlMOD%2FPrr8ebG9kIIypoeCyFqLujheoXDhJAFiTExotlhoZFdjnVv57m1MwA7byGMcOsZysB%2B2syEOc%2FmMsgAROQdZnr89CUlYv0R5VCcgdQDaaxc%2FBuMFhDGVBctA4eSQnIUhiqHNZ7eKPER3ydR20OcBawURgz2SfQ9UDvDmQvri%2B7fHRnx6Dvat8PDLmP33tw%2BoTbkH38fg2q%2FXvxAJlift3FVLlcY9sqpv1FaMdMOLi5IsGOqYBZjXR0axzylMnjwpuCOsU56z%2FKDmK%2F0TuANpmtsqFINTX9CmEig1csREKYYe4mwXDlH4RLygGHdu%2FkzZcKxrIMoHPEEi%2Fmmh5tefjdJsI4uRR5rIk038eEGR97SzrncCDnksnPJV5FSjLI1R7y%2FpZyn2BvoN2Adp%2BpFRuJrPs5jzexG5ZFBxbkUURDakOtdovdyo4CsBLg0aHsWafVoDFDxQKTYoN4g%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=0a738181f44a274615de5808a4556b44b312eedfb53846113f25df3533f671e1"
+							]
+						}
+					}
+				}
+			},
+			"links": [
+				{
+					"link": "1st Floor Living Room",
+					"name": "Living Room",
+					"x": -0.9108003611717015,
+					"y": -1.0752938856181522,
+					"z": -11.916970494284262
+				}
+			]
+		},
+		"1st Floor Living Room": {
+			"styles": {
+				"style1": {
+					"capacities": {
+						"capacity1": {
+							"ambients": {
+								"ambient1": {
+									"source": "https://s3.eu-west-1.amazonaws.com/vz.orders/production/preview_items/vr_images/images/000/010/273/b/vr_villa_margherita_first_floor_vr_8_view_1.jpg",
+									"loaded": false
+								}
+							},
+							"gallery": [
+								"https://s3.eu-west-1.amazonaws.com/vz.orders/production/preview_items/images/images/000/083/528/web_app/vs_villa_margherita_first_floor_7_first_floor_living_room.png?response-content-disposition=attachment&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAVUIPV5P3W53LGQUB%2F20211027%2Feu-west-1%2Fs3%2Faws4_request&X-Amz-Date=20211027T120640Z&X-Amz-Expires=900&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEPP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCWV1LXdlc3QtMSJGMEQCIA0o9ZIxOcKbHr8%2F3UzyRcQ0iaJHNFkS1aw%2By%2FTQT%2BjNAiAvhzoJq4PFxWMIdS8ebCo1BLP0DW8Zh7DJrtAdmMButyqDBAiM%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDM4NzExNjgyMTQ5NSIM2FeYQ9VSK1Zn8xzAKtcDwiR9RMQZFTqVKLx73c0fbjNm0bzvE17LH5YBRoAdj7IXeVWFvvfmmMcr1n8O5QyXQtl7AtvXjTpJ6AkfZca9MXa3UNgDKV6vlP6czgITwnweLmPxcEdMjeUBRfPR3zjJ0dZuzeOghsy%2BMAPpcbNl6o6U4%2ByUMOZQdkQN6elePxCxht5sMb7Odk6AxBPT1Ga0UmcEid3BMvrSz315u7zDZtIc9yMsGXDK1StxGXYLflryD8HcNbpZMby7cdAX9MM47UJj8qoUoDPvX2%2BBVBL2IeWaK71sU%2BXlb%2FxpCgN8awRj5hrYOaB06s976dMUWCY3w%2Fe1Os2i5haSHfNRnHLO7ByhiXXhH44Q6XuISDo3RT0XbX%2FjnSdZr3PSFzud%2BJixT0HJE3CfqXlMOD%2FPrr8ebG9kIIypoeCyFqLujheoXDhJAFiTExotlhoZFdjnVv57m1MwA7byGMcOsZysB%2B2syEOc%2FmMsgAROQdZnr89CUlYv0R5VCcgdQDaaxc%2FBuMFhDGVBctA4eSQnIUhiqHNZ7eKPER3ydR20OcBawURgz2SfQ9UDvDmQvri%2B7fHRnx6Dvat8PDLmP33tw%2BoTbkH38fg2q%2FXvxAJlift3FVLlcY9sqpv1FaMdMOLi5IsGOqYBZjXR0axzylMnjwpuCOsU56z%2FKDmK%2F0TuANpmtsqFINTX9CmEig1csREKYYe4mwXDlH4RLygGHdu%2FkzZcKxrIMoHPEEi%2Fmmh5tefjdJsI4uRR5rIk038eEGR97SzrncCDnksnPJV5FSjLI1R7y%2FpZyn2BvoN2Adp%2BpFRuJrPs5jzexG5ZFBxbkUURDakOtdovdyo4CsBLg0aHsWafVoDFDxQKTYoN4g%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=48a6da4c121ff1e7d17a46fd507a3170f3dd97fd933fc75690fb3bcc567e9cc2"
+							]
+						}
+					}
+				}
+			},
+			"links": [
+				{
+					"link": "1st Floor Bedroom",
+					"name": "Bedroom",
+					"x": 6.3632583223779005,
+					"y": -1.0911582044683994,
+					"z": 10.115251716863487
+				},
+				{
+					"link": "1st Floor Hall",
+					"name": "Hall",
+					"x": 10.562861564901388,
+					"y": -1.3316109034109855,
+					"z": 5.536494194221283
+				}
+			]
+		},
+		"1st Floor Hall": {
+			"styles": {
+				"style1": {
+					"capacities": {
+						"capacity1": {
+							"ambients": {
+								"ambient1": {
+									"source": "https://s3.eu-west-1.amazonaws.com/vz.orders/production/preview_items/vr_images/images/000/010/282/b/vr_villa_margherita_first_floor_vr_10_view_1.jpg",
+									"loaded": false
+								}
+							},
+							"gallery": [
+								"https://s3.eu-west-1.amazonaws.com/vz.orders/production/preview_items/images/images/000/083/529/web_app/vs_villa_margherita_first_floor_9_hall.png?response-content-disposition=attachment&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAVUIPV5P3W53LGQUB%2F20211027%2Feu-west-1%2Fs3%2Faws4_request&X-Amz-Date=20211027T120728Z&X-Amz-Expires=900&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEPP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCWV1LXdlc3QtMSJGMEQCIA0o9ZIxOcKbHr8%2F3UzyRcQ0iaJHNFkS1aw%2By%2FTQT%2BjNAiAvhzoJq4PFxWMIdS8ebCo1BLP0DW8Zh7DJrtAdmMButyqDBAiM%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDM4NzExNjgyMTQ5NSIM2FeYQ9VSK1Zn8xzAKtcDwiR9RMQZFTqVKLx73c0fbjNm0bzvE17LH5YBRoAdj7IXeVWFvvfmmMcr1n8O5QyXQtl7AtvXjTpJ6AkfZca9MXa3UNgDKV6vlP6czgITwnweLmPxcEdMjeUBRfPR3zjJ0dZuzeOghsy%2BMAPpcbNl6o6U4%2ByUMOZQdkQN6elePxCxht5sMb7Odk6AxBPT1Ga0UmcEid3BMvrSz315u7zDZtIc9yMsGXDK1StxGXYLflryD8HcNbpZMby7cdAX9MM47UJj8qoUoDPvX2%2BBVBL2IeWaK71sU%2BXlb%2FxpCgN8awRj5hrYOaB06s976dMUWCY3w%2Fe1Os2i5haSHfNRnHLO7ByhiXXhH44Q6XuISDo3RT0XbX%2FjnSdZr3PSFzud%2BJixT0HJE3CfqXlMOD%2FPrr8ebG9kIIypoeCyFqLujheoXDhJAFiTExotlhoZFdjnVv57m1MwA7byGMcOsZysB%2B2syEOc%2FmMsgAROQdZnr89CUlYv0R5VCcgdQDaaxc%2FBuMFhDGVBctA4eSQnIUhiqHNZ7eKPER3ydR20OcBawURgz2SfQ9UDvDmQvri%2B7fHRnx6Dvat8PDLmP33tw%2BoTbkH38fg2q%2FXvxAJlift3FVLlcY9sqpv1FaMdMOLi5IsGOqYBZjXR0axzylMnjwpuCOsU56z%2FKDmK%2F0TuANpmtsqFINTX9CmEig1csREKYYe4mwXDlH4RLygGHdu%2FkzZcKxrIMoHPEEi%2Fmmh5tefjdJsI4uRR5rIk038eEGR97SzrncCDnksnPJV5FSjLI1R7y%2FpZyn2BvoN2Adp%2BpFRuJrPs5jzexG5ZFBxbkUURDakOtdovdyo4CsBLg0aHsWafVoDFDxQKTYoN4g%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=7c366928cea7fd860cae0446ce7175a9a70fbda5fa48bc30fbf36cbe4ebdba5a"
+							]
+						}
+					}
+				}
+			},
+			"links": [
+				{
+					"link": "1st Floor Bathroom",
+					"name": "Bathroom",
+					"x": 0.6328804242275485,
+					"y": -1.6269404200840887,
+					"z": -11.872342954873151
+				},
+				{
+					"link": "1st Floor Living Room",
+					"name": "Living Room",
+					"x": 9.805869559998438,
+					"y": -2.4085325572148877,
+					"z": 6.484126239759059
+				}
+			]
+		},
+		"1st Floor Bathroom": {
+			"styles": {
+				"style1": {
+					"capacities": {
+						"capacity1": {
+							"ambients": {
+								"ambient1": {
+									"source": "https://s3.eu-west-1.amazonaws.com/vz.orders/production/preview_items/vr_images/images/000/010/283/b/vr_villa_margherita_first_floor_vr_11_view_1.jpg",
+									"loaded": false
+								}
+							},
+							"gallery": [
+								"https://s3.eu-west-1.amazonaws.com/vz.orders/production/preview_items/images/images/000/082/141/web_app/vs_villa_margherita_first_floor_8_bathroom.png?response-content-disposition=attachment&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAVUIPV5P3W53LGQUB%2F20211027%2Feu-west-1%2Fs3%2Faws4_request&X-Amz-Date=20211027T120706Z&X-Amz-Expires=900&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEPP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCWV1LXdlc3QtMSJGMEQCIA0o9ZIxOcKbHr8%2F3UzyRcQ0iaJHNFkS1aw%2By%2FTQT%2BjNAiAvhzoJq4PFxWMIdS8ebCo1BLP0DW8Zh7DJrtAdmMButyqDBAiM%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDM4NzExNjgyMTQ5NSIM2FeYQ9VSK1Zn8xzAKtcDwiR9RMQZFTqVKLx73c0fbjNm0bzvE17LH5YBRoAdj7IXeVWFvvfmmMcr1n8O5QyXQtl7AtvXjTpJ6AkfZca9MXa3UNgDKV6vlP6czgITwnweLmPxcEdMjeUBRfPR3zjJ0dZuzeOghsy%2BMAPpcbNl6o6U4%2ByUMOZQdkQN6elePxCxht5sMb7Odk6AxBPT1Ga0UmcEid3BMvrSz315u7zDZtIc9yMsGXDK1StxGXYLflryD8HcNbpZMby7cdAX9MM47UJj8qoUoDPvX2%2BBVBL2IeWaK71sU%2BXlb%2FxpCgN8awRj5hrYOaB06s976dMUWCY3w%2Fe1Os2i5haSHfNRnHLO7ByhiXXhH44Q6XuISDo3RT0XbX%2FjnSdZr3PSFzud%2BJixT0HJE3CfqXlMOD%2FPrr8ebG9kIIypoeCyFqLujheoXDhJAFiTExotlhoZFdjnVv57m1MwA7byGMcOsZysB%2B2syEOc%2FmMsgAROQdZnr89CUlYv0R5VCcgdQDaaxc%2FBuMFhDGVBctA4eSQnIUhiqHNZ7eKPER3ydR20OcBawURgz2SfQ9UDvDmQvri%2B7fHRnx6Dvat8PDLmP33tw%2BoTbkH38fg2q%2FXvxAJlift3FVLlcY9sqpv1FaMdMOLi5IsGOqYBZjXR0axzylMnjwpuCOsU56z%2FKDmK%2F0TuANpmtsqFINTX9CmEig1csREKYYe4mwXDlH4RLygGHdu%2FkzZcKxrIMoHPEEi%2Fmmh5tefjdJsI4uRR5rIk038eEGR97SzrncCDnksnPJV5FSjLI1R7y%2FpZyn2BvoN2Adp%2BpFRuJrPs5jzexG5ZFBxbkUURDakOtdovdyo4CsBLg0aHsWafVoDFDxQKTYoN4g%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=62591c88d9cc4f750c4f1d6ce67f1c2df52d67f70a28cff8e481b7fc5bc5105d"
+							]
+						}
+					}
+				}
+			},
+			"links": [
+				{
+					"link": "1st Floor Hall",
+					"name": "Hall",
+					"x": 8.195758536184558,
+					"y": -1.340232335126644,
+					"z": -8.662177515177053
+				}
+			]
+		}
+	}
+}
