@@ -333,14 +333,12 @@ var createScene = function() {
             camera.setTarget(new BABYLON.Vector3(camera.position.x, camera.position.y, camera.position.z+1));
         
             camera.attachControl(canvas, true);
-    
-            camera.inputs.attached.keyboard.keysRotateLeft[0] = 37;
-            camera.inputs.attached.keyboard.keysRotateRight[0] = 39;
-            camera.inputs.attached.keyboard.keysUpward[0] = 38;
-            camera.inputs.attached.keyboard.keysDownward[0] = 40;
 
-        
-            
+            camera.keysRotateLeft.push(37)
+            camera.keysRotateRight.push(39)
+            camera.keysUpward.push(38)
+            camera.keysDownward.push(40)
+
             button = BABYLON.GUI.Button.CreateSimpleButton("switch", "Switch");
             button.width = 0.2;
             button.height = "40px";
