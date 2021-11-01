@@ -334,10 +334,10 @@ var createScene = function() {
         
             camera.attachControl(canvas, true);
     
-            camera.inputs.attached.keyboard.keysLeft[0] = -1;
-            camera.inputs.attached.keyboard.keysRight[0] = -1;
-            camera.inputs.attached.keyboard.keysUp[0] = -1;
-            camera.inputs.attached.keyboard.keysDown[0] = -1;
+            camera.inputs.attached.keyboard.keysLeft[0] = 37;
+            camera.inputs.attached.keyboard.keysRight[0] = 39;
+            camera.inputs.attached.keyboard.keysUp[0] = 38;
+            camera.inputs.attached.keyboard.keysDown[0] = 40;
 
         
             
