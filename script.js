@@ -367,10 +367,10 @@ var createScene = function() {
         
         
         
-            orientationCamera.inputs.attached.keyboard.keysLeft[0] = -1;
-            orientationCamera.inputs.attached.keyboard.keysRight[0] = -1;
-            orientationCamera.inputs.attached.keyboard.keysUp[0] = -1;
-            orientationCamera.inputs.attached.keyboard.keysDown[0] = -1;
+            orientationCamera.inputs.attached.keyboard.keysRotateLeft[0] = -1;
+            orientationCamera.inputs.attached.keyboard.keysRotateRight[0] = -1;
+            orientationCamera.inputs.attached.keyboard.keysUpward[0] = -1;
+            orientationCamera.inputs.attached.keyboard.keysDownward[0] = -1;
                         
                         
                         var camQuaTemp = camera.rotationQuaternion.clone();
