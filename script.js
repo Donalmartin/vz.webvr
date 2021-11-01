@@ -326,9 +326,7 @@ var createScene = function() {
 	})
 
 	
-    //**************************
-
-    var keycamera = new BABYLON.ArcRotationCamera("arcCamera", )
+    //*************************
     
     var camera = new BABYLON.FreeCamera("camera1", new BABYLON.Vector3(0, 0, 0), scene);
             camera.rotationQuaternion = new BABYLON.Quaternion.RotationYawPitchRoll(Math.PI, Math.PI, Math.PI);
