@@ -327,6 +327,8 @@ var createScene = function() {
 
 	
     //**************************
+
+    var keycamera = new BABYLON.ArcRotationCamera("arcCamera", )
     
     var camera = new BABYLON.FreeCamera("camera1", new BABYLON.Vector3(0, 0, 0), scene);
             camera.rotationQuaternion = new BABYLON.Quaternion.RotationYawPitchRoll(Math.PI, Math.PI, Math.PI);
@@ -334,10 +336,10 @@ var createScene = function() {
         
             camera.attachControl(canvas, true);
     
-            camera.inputs.attached.keyboard.keysLeft[0] = 37;
-            camera.inputs.attached.keyboard.keysRight[0] = 39;
-            camera.inputs.attached.keyboard.keysUp[0] = 38;
-            camera.inputs.attached.keyboard.keysDown[0] = 40;
+            camera.inputs.attached.keyboard.keysRotateLeft[0] = 37;
+            camera.inputs.attached.keyboard.keysRotateRight[0] = 39;
+            camera.inputs.attached.keyboard.keysUpward[0] = 38;
+            camera.inputs.attached.keyboard.keysDownward[0] = 40;
 
         
             
@@ -367,10 +369,10 @@ var createScene = function() {
         
         
         
-            orientationCamera.inputs.attached.keyboard.keysLeft[0] = 37;
-            orientationCamera.inputs.attached.keyboard.keysRight[0] = 39;
-            orientationCamera.inputs.attached.keyboard.keysUp[0] = 38;
-            orientationCamera.inputs.attached.keyboard.keysDown[0] = 40;
+            orientationCamera.inputs.attached.keyboard.keysLeft[0] = -1;
+            orientationCamera.inputs.attached.keyboard.keysRight[0] = -1;
+            orientationCamera.inputs.attached.keyboard.keysUp[0] = -1;
+            orientationCamera.inputs.attached.keyboard.keysDown[0] = -1;
                         
                         
                         var camQuaTemp = camera.rotationQuaternion.clone();
