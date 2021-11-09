@@ -43,13 +43,13 @@
 				"style1": {
 					"capacities": {
 						"capacity1": {
+							"gallery": [],
 							"ambients": {
 								"ambient1": {
-									"source": "https://s3.eu-west-1.amazonaws.com/vz.orders/production/preview_items/vr_images/images/000/010/257/b/vr_villa_margherita_ground_floor_vr_2_view_1.jpg",
+									"source": "https://s3.eu-west-1.amazonaws.com/vz.orders/production/preview_items/vr_images/images/000/010/288/b/vr_villa_margherita_ground_floor_vr_2_view_1.jpg",
 									"loaded": false
 								}
-							},
-							"gallery": []
+							}
 						}
 					}
 				}
@@ -75,6 +75,13 @@
 					"x": -4.460972960208244,
 					"y": -1.776683019086341,
 					"z": -10.997414136876957
+				},
+				{
+					"link": "Ground Floor Terrace",
+					"name": "Ground Floor Terrace",
+					"x": -11.959462184510024,
+					"y": -0.6350543806934007,
+					"z": -0.7536379706708485
 				}
 			]
 		},
@@ -252,6 +259,13 @@
 					"x": 10.562861564901388,
 					"y": -1.3316109034109855,
 					"z": 5.536494194221283
+				},
+				{
+					"link": "Bathroom",
+					"name": "Bathroom",
+					"x": 4.603794323719897,
+					"y": -0.9664080414550663,
+					"z": -11.039525955506216
 				}
 			]
 		},
@@ -320,6 +334,24 @@
 					"z": -8.662177515177053
 				}
 			]
+		},
+		"Bathroom": {
+			"styles": {
+				"style1": {
+					"capacities": {
+						"capacity1": {
+							"gallery": [],
+							"ambients": {
+								"ambient1": {
+									"source": "https://s3.eu-west-1.amazonaws.com/vz.orders/production/preview_items/vr_images/images/000/010/274/b/vr_villa_margherita_first_floor_vr_9_view_1.jpg",
+									"loaded": false
+								}
+							}
+						}
+					}
+				}
+			},
+			"links": []
 		}
 	}
 }
