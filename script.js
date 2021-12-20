@@ -1065,7 +1065,7 @@ function updateActives(from){
             const styleImg = document.createElement("img");
                 styleImg.setAttribute("class", "styleImage");
                 styleImg.setAttribute("src", "assets/textures/" + style + ".png");
-                styleImg.setAttribute("alt", "style");
+                styleImg.setAttribute("alt", "layout " + style + " style");
              
                 const styleButton = document.createElement("button");
                 styleButton.setAttribute("type", "button");
@@ -1173,6 +1173,7 @@ function updateActives(from){
                 capacityButton.setAttribute("type", "button");
                 capacityButton.setAttribute("class", "capacityButton");
                 capacityButton.setAttribute("onclick", "clickedCapacity(this)");
+                capacityButton.setAttribute("alt", "capicity " + capacitySpan)
             
             capacityButton.appendChild(capacitySVG);
             capacityButton.appendChild(capacitySpan);
