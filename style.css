@@ -45,6 +45,10 @@ body {
     top: calc(max(var(--minTitleMenuWidth)*0.1, calc(var(--clientHeight)*0.05))*1px);
 }
 
+#collapseTitleMenu img {
+    padding: 10px;
+}
+
 #collapseTitleMenu a{
     max-width: 100%;
     margin: auto
