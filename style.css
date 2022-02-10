@@ -45,6 +45,10 @@ body {
     top: calc(max(var(--minTitleMenuWidth)*0.1, calc(var(--clientHeight)*0.05))*1px);
 }
 
+#collapseTitleMenu img {
+    padding: 10px;
+}
+
 #collapseTitleMenu a{
     max-width: 100%;
     margin: auto
@@ -242,7 +246,6 @@ img-floorplan {
     height: calc(max(var(--minTopPenuHeight), min(var(--maxTopPenuHeight), min(calc(var(--clientHeight)*0.05),calc(var(--clientWidth)*0.033))))*1px);
     width: calc(max(var(--minTopPenuHeight), min(var(--maxTopPenuHeight), min(calc(var(--clientHeight)*0.05),calc(var(--clientWidth)*0.033))))*1px);
     padding: 0;
-    float: right;
     pointer-events: all;
 }
 
@@ -524,9 +527,10 @@ img-floorplan {
     margin: auto;
     margin-top: calc(max(var(--minTitleMenuWidth)*0.2, calc(var(--clientHeight)*0.1))*1px);
     width: calc(max(var(--minTitleMenuWidth)*1.5, min(calc(var(--clientHeight)*2.0),calc(var(--clientWidth)*0.5)))*1px);
-    background: rgba(0, 0, 0, 0.0);
+    background: rgb(21 21 21 / 56%);
     color: white;
     border: 0;
+    padding: 5px;;
 }
 
 #shareModal .modal-header button span {
@@ -725,4 +729,7 @@ li.layout.c-menu__item {
     top: 0;
 }
 
+button:focus-visible {
+    outline: 5px dashed #a2ce3b !important;
+}
 
