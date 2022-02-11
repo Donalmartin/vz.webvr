@@ -1,6 +1,6 @@
 {
 	"title": "Kalahari Round Rock Texas",
-	"subTitle": "Event Barn & Lawn",
+	"subTitle": "Amatuli",
 	"logoLink": "https://www.kalahariresorts.com/texas/",
 	"thumbLink": "thumbnail.png",
 	"uiColor": "#51b5e0",
@@ -13,20 +13,7 @@
 							"gallery": [],
 							"ambients": {
 								"ambient1": {
-									"source": "https://s3.eu-west-1.amazonaws.com/vz.orders/production/preview_items/vr_images/images/000/010/410/b/vr_event_barn_lawn_rounds_of_10_vr_barn_view_1.jpg",
-									"loaded": false
-								}
-							}
-						}
-					}
-				},
-				"Banquet 8": {
-					"capacities": {
-						"capacity1": {
-							"gallery": [],
-							"ambients": {
-								"ambient1": {
-									"source": "https://s3.eu-west-1.amazonaws.com/vz.orders/production/preview_items/vr_images/images/000/010/403/b/vr_event_barn_lawn_reception_rounds_of_8_vr_view_1.jpg",
+									"source": "https://s3.eu-west-1.amazonaws.com/vz.orders/production/preview_items/vr_images/images/000/010/502/b/vr_amatuli_rounds_of_8_vr_view_1.jpg",
 									"loaded": false
 								}
 							}
@@ -39,7 +26,7 @@
 							"gallery": [],
 							"ambients": {
 								"ambient1": {
-									"source": "https://s3.eu-west-1.amazonaws.com/vz.orders/production/preview_items/vr_images/images/000/010/404/b/vr_event_barn_lawn_reception_vr_view_1.jpg",
+									"source": "https://s3.eu-west-1.amazonaws.com/vz.orders/production/preview_items/vr_images/images/000/010/505/b/vr_amatuli_reception_vr_view_1.jpg",
 									"loaded": false
 								}
 							}
@@ -52,7 +39,46 @@
 							"gallery": [],
 							"ambients": {
 								"ambient1": {
-									"source": "https://s3.eu-west-1.amazonaws.com/vz.orders/production/preview_items/vr_images/images/000/010/402/b/vr_event_barn_lawn_empty_vr_view_1.jpg",
+									"source": "https://s3.eu-west-1.amazonaws.com/vz.orders/production/preview_items/vr_images/images/000/010/503/b/vr_amatuli_empty_vr_view_1.jpg",
+									"loaded": false
+								}
+							}
+						}
+					}
+				},
+				"Banquet Furniture": {
+					"capacities": {
+						"capacity1": {
+							"gallery": [],
+							"ambients": {
+								"ambient1": {
+									"source": "https://s3.eu-west-1.amazonaws.com/vz.orders/production/preview_items/vr_images/images/000/010/506/b/vr_amatuli_rounds_of_8_furniture_vr_view_1.jpg",
+									"loaded": false
+								}
+							}
+						}
+					}
+				},
+				"Reception Furniture": {
+					"capacities": {
+						"capacity1": {
+							"gallery": [],
+							"ambients": {
+								"ambient1": {
+									"source": "https://s3.eu-west-1.amazonaws.com/vz.orders/production/preview_items/vr_images/images/000/010/504/b/vr_amatuli_reception_furniture_vr_view_1.jpg",
+									"loaded": false
+								}
+							}
+						}
+					}
+				},
+				"Banquet wit Reception": {
+					"capacities": {
+						"capacity1": {
+							"gallery": [],
+							"ambients": {
+								"ambient1": {
+									"source": "https://s3.eu-west-1.amazonaws.com/vz.orders/production/preview_items/vr_images/images/000/010/507/b/vr_amatuli_rounds_of_8_reception_vr_view_1.jpg",
 									"loaded": false
 								}
 							}
