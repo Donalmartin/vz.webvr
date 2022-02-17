@@ -58,6 +58,71 @@
 							}
 						}
 					}
+				},
+				"Banquet Lawn 8": {
+					"capacities": {
+						"capacity1": {
+							"gallery": [],
+							"ambients": {
+								"ambient1": {
+									"source": "https://s3.eu-west-1.amazonaws.com/vz.orders/production/preview_items/vr_images/images/000/010/548/b/vr_event_barn_lawn_rounds_of_8_vr_barn_view_2.jpg",
+									"loaded": false
+								}
+							}
+						}
+					}
+				},
+				"Banquet Lawn 10": {
+					"capacities": {
+						"capacity1": {
+							"gallery": [],
+							"ambients": {
+								"ambient1": {
+									"source": "https://s3.eu-west-1.amazonaws.com/vz.orders/production/preview_items/vr_images/images/000/010/540/b/vr_event_barn_lawn_rounds_of_10_vr_barn_view_2.jpg",
+									"loaded": false
+								}
+							}
+						}
+					}
+				},
+				"Reception Lawn": {
+					"capacities": {
+						"capacity1": {
+							"gallery": [],
+							"ambients": {
+								"ambient1": {
+									"source": "https://s3.eu-west-1.amazonaws.com/vz.orders/production/preview_items/vr_images/images/000/010/534/b/vr_event_barn_lawn_reception_vr_view_2.jpg",
+									"loaded": false
+								}
+							}
+						}
+					}
+				},
+				"Reception Lawn 8": {
+					"capacities": {
+						"capacity1": {
+							"gallery": [],
+							"ambients": {
+								"ambient1": {
+									"source": "https://s3.eu-west-1.amazonaws.com/vz.orders/production/preview_items/vr_images/images/000/010/531/b/vr_event_barn_lawn_reception_rounds_of_8_vr_view_2.jpg",
+									"loaded": false
+								}
+							}
+						}
+					}
+				},
+				"Empty Lawn": {
+					"capacities": {
+						"capacity1": {
+							"gallery": [],
+							"ambients": {
+								"ambient1": {
+									"source": "https://s3.eu-west-1.amazonaws.com/vz.orders/production/preview_items/vr_images/images/000/010/528/b/vr_event_barn_lawn_empty_vr_view_2.jpg",
+									"loaded": false
+								}
+							}
+						}
+					}
 				}
 			},
 			"links": []
