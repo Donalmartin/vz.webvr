@@ -13,7 +13,7 @@
 							"gallery": [],
 							"ambients": {
 								"ambient1": {
-									"source": "https://s3.eu-west-1.amazonaws.com/vz.orders/production/preview_items/vr_images/images/000/010/489/b/vr_exchange_ballroom_banquet_vr_view_1.jpg",
+									"source": "https://s3.eu-west-1.amazonaws.com/vz.orders/production/preview_items/vr_images/images/000/010/551/b/vr_exchange_ballroom_banquet_vr_view_1.jpg",
 									"loaded": false
 								}
 							}
@@ -26,7 +26,7 @@
 							"gallery": [],
 							"ambients": {
 								"ambient1": {
-									"source": "https://s3.eu-west-1.amazonaws.com/vz.orders/production/preview_items/vr_images/images/000/010/486/b/vr_exchange_ballroom_u_shape_vr_view_1.jpg",
+									"source": "https://s3.eu-west-1.amazonaws.com/vz.orders/production/preview_items/vr_images/images/000/010/554/b/vr_exchange_ballroom_u_shape_vr_view_1.jpg",
 									"loaded": false
 								}
 							}
@@ -39,7 +39,7 @@
 							"gallery": [],
 							"ambients": {
 								"ambient1": {
-									"source": "https://s3.eu-west-1.amazonaws.com/vz.orders/production/preview_items/vr_images/images/000/010/482/b/vr_exchange_ballroom_theater_vr_view_1.jpg",
+									"source": "https://s3.eu-west-1.amazonaws.com/vz.orders/production/preview_items/vr_images/images/000/010/553/b/vr_exchange_ballroom_theater_vr_view_1.jpg",
 									"loaded": false
 								}
 							}
@@ -52,7 +52,7 @@
 							"gallery": [],
 							"ambients": {
 								"ambient1": {
-									"source": "https://s3.eu-west-1.amazonaws.com/vz.orders/production/preview_items/vr_images/images/000/010/488/b/vr_exchange_ballroom_empty_vr_view_1.jpg",
+									"source": "https://s3.eu-west-1.amazonaws.com/vz.orders/production/preview_items/vr_images/images/000/010/552/b/vr_exchange_ballroom_empty_vr_view_1.jpg",
 									"loaded": false
 								}
 							}
