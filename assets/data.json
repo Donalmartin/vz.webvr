@@ -1,6 +1,6 @@
 {
 	"title": "Charleston Place",
-	"subTitle": "Academy Room",
+	"subTitle": "Ansonborough",
 	"logoLink": "https://charlestonplace.com/",
 	"thumbLink": "thumbnail.png",
 	"uiColor": "#51b5e0",
@@ -13,7 +13,7 @@
 							"gallery": [],
 							"ambients": {
 								"ambient1": {
-									"source": "https://s3.eu-west-1.amazonaws.com/vz.orders/production/preview_items/vr_images/images/000/006/143/b/vr_academy_room_banquet_view_1.jpg",
+									"source": "https://s3.eu-west-1.amazonaws.com/vz.orders/production/preview_items/vr_images/images/000/006/203/b/vr_ansonborouch_banquet_view_1.jpg",
 									"loaded": false
 								}
 							}
@@ -26,7 +26,7 @@
 							"gallery": [],
 							"ambients": {
 								"ambient1": {
-									"source": "https://s3.eu-west-1.amazonaws.com/vz.orders/production/preview_items/vr_images/images/000/010/645/b/vr_academy_room_classroom_view_1.jpg",
+									"source": "https://s3.eu-west-1.amazonaws.com/vz.orders/production/preview_items/vr_images/images/000/010/639/b/vr_ansonborouch_classroom_view_1.jpg",
 									"loaded": false
 								}
 							}
@@ -39,7 +39,20 @@
 							"gallery": [],
 							"ambients": {
 								"ambient1": {
-									"source": "https://s3.eu-west-1.amazonaws.com/vz.orders/production/preview_items/vr_images/images/000/010/647/b/vr_academy_room_h_shape_view_1.jpg",
+									"source": "https://s3.eu-west-1.amazonaws.com/vz.orders/production/preview_items/vr_images/images/000/010/641/b/vr_ansonborouch_h_shape_view_1.jpg",
+									"loaded": false
+								}
+							}
+						}
+					}
+				},
+				"Theatre": {
+					"capacities": {
+						"capacity1": {
+							"gallery": [],
+							"ambients": {
+								"ambient1": {
+									"source": "https://s3.eu-west-1.amazonaws.com/vz.orders/production/preview_items/vr_images/images/000/010/643/b/vr_ansonborouch_theater_view_1.jpg",
 									"loaded": false
 								}
 							}
@@ -52,7 +65,7 @@
 							"gallery": [],
 							"ambients": {
 								"ambient1": {
-									"source": "https://s3.eu-west-1.amazonaws.com/vz.orders/production/preview_items/vr_images/images/000/006/145/b/vr_academy_room_empty_view_1.jpg",
+									"source": "https://s3.eu-west-1.amazonaws.com/vz.orders/production/preview_items/vr_images/images/000/006/182/b/vr_ansonborouch_empty_view_1.jpg",
 									"loaded": false
 								}
 							}
