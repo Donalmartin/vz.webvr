@@ -1,6 +1,6 @@
 {
 	"title": "Charleston Place",
-	"subTitle": "Pavilion Room",
+	"subTitle": "Academy Room",
 	"logoLink": "https://charlestonplace.com/",
 	"thumbLink": "thumbnail.png",
 	"uiColor": "#51b5e0",
@@ -14,45 +14,6 @@
 							"ambients": {
 								"ambient1": {
 									"source": "https://s3.eu-west-1.amazonaws.com/vz.orders/production/preview_items/vr_images/images/000/010/567/b/vr_pavillion_room_banquet_l_light_1_view_1.jpg",
-									"loaded": false
-								}
-							}
-						}
-					}
-				},
-				"Classroom": {
-					"capacities": {
-						"capacity1": {
-							"gallery": [],
-							"ambients": {
-								"ambient1": {
-									"source": "https://s3.eu-west-1.amazonaws.com/vz.orders/production/preview_items/vr_images/images/000/010/568/b/vr_pavillion_room_classroom_l_light_1_view_1.jpg",
-									"loaded": false
-								}
-							}
-						}
-					}
-				},
-				"Hollow Square": {
-					"capacities": {
-						"capacity1": {
-							"gallery": [],
-							"ambients": {
-								"ambient1": {
-									"source": "https://s3.eu-west-1.amazonaws.com/vz.orders/production/preview_items/vr_images/images/000/010/570/b/vr_pavillion_room_h_shape_l_light_1_view_1.jpg",
-									"loaded": false
-								}
-							}
-						}
-					}
-				},
-				"Empty": {
-					"capacities": {
-						"capacity1": {
-							"gallery": [],
-							"ambients": {
-								"ambient1": {
-									"source": "https://s3.eu-west-1.amazonaws.com/vz.orders/production/preview_items/vr_images/images/000/010/569/b/vr_pavillion_room_empty_l_light_1_view_1.jpg",
 									"loaded": false
 								}
 							}
