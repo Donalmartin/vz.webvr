@@ -1173,7 +1173,7 @@ function updateActives(from){
                 capacityButton.setAttribute("type", "button");
                 capacityButton.setAttribute("class", "capacityButton");
                 capacityButton.setAttribute("onclick", "clickedCapacity(this)");
-                capacityButton.setAttribute("alt", "capicity " + capacitySpan)
+                capacityButton.setAttribute("alt", "capicity " + capacitySpan.innerHTML)
             
             capacityButton.appendChild(capacitySVG);
             capacityButton.appendChild(capacitySpan);
