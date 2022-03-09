@@ -1,6 +1,6 @@
 {
 	"title": "Charleston Place",
-	"subTitle": "Beauregard",
+	"subTitle": "Cannonborough",
 	"logoLink": "https://charlestonplace.com/",
 	"thumbLink": "thumbnail.png",
 	"uiColor": "#51b5e0",
@@ -13,7 +13,7 @@
 							"gallery": [],
 							"ambients": {
 								"ambient1": {
-									"source": "https://s3.eu-west-1.amazonaws.com/vz.orders/production/preview_items/vr_images/images/000/006/134/b/vr_beauregard_banquet_view_1.jpg",
+									"source": "https://s3.eu-west-1.amazonaws.com/vz.orders/production/preview_items/vr_images/images/000/006/191/b/vr_cannonborough_banquet_view_1.jpg",
 									"loaded": false
 								}
 							}
@@ -26,20 +26,20 @@
 							"gallery": [],
 							"ambients": {
 								"ambient1": {
-									"source": "https://s3.eu-west-1.amazonaws.com/vz.orders/production/preview_items/vr_images/images/000/010/631/b/vr_beauregard_classroom_view_1.jpg",
+									"source": "https://s3.eu-west-1.amazonaws.com/vz.orders/production/preview_items/vr_images/images/000/010/627/b/vr_cannonborough_classroom_view_1.jpg",
 									"loaded": false
 								}
 							}
 						}
 					}
 				},
-				"U-Shape": {
+				"Hollow Square": {
 					"capacities": {
 						"capacity1": {
 							"gallery": [],
 							"ambients": {
 								"ambient1": {
-									"source": "https://s3.eu-west-1.amazonaws.com/vz.orders/production/preview_items/vr_images/images/000/010/633/b/vr_beauregard_u_shape_view_1.jpg",
+									"source": "https://s3.eu-west-1.amazonaws.com/vz.orders/production/preview_items/vr_images/images/000/010/629/b/vr_cannonborough_h_shape_view_1.jpg",
 									"loaded": false
 								}
 							}
@@ -52,7 +52,7 @@
 							"gallery": [],
 							"ambients": {
 								"ambient1": {
-									"source": "https://s3.eu-west-1.amazonaws.com/vz.orders/production/preview_items/vr_images/images/000/006/136/b/vr_beauregard_empty_view_1.jpg",
+									"source": "https://s3.eu-west-1.amazonaws.com/vz.orders/production/preview_items/vr_images/images/000/006/192/b/vr_cannonborough_empty_view_1.jpg",
 									"loaded": false
 								}
 							}
