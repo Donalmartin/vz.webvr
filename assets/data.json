@@ -1,19 +1,32 @@
 {
 	"title": "Charleston Place",
-	"subTitle": "Riley",
+	"subTitle": "Riviera Rooftop Terrace",
 	"logoLink": "https://charlestonplace.com/",
 	"thumbLink": "thumbnail.png",
 	"uiColor": "#0878e7",
 	"locations": {
 		"View 1": {
 			"styles": {
-				"Boardroom": {
+				"Cocktail": {
 					"capacities": {
 						"capacity1": {
 							"gallery": [],
 							"ambients": {
 								"ambient1": {
-									"source": "https://s3.eu-west-1.amazonaws.com/vz.orders/production/preview_items/vr_images/images/000/006/184/b/vr_riley_view_1.jpg",
+									"source": "https://s3.eu-west-1.amazonaws.com/vz.orders/production/preview_items/vr_images/images/000/006/301/b/vr_riviera_rooftop_terrace_reception_view_1.jpg",
+									"loaded": false
+								}
+							}
+						}
+					}
+				},
+				"Empty": {
+					"capacities": {
+						"capacity1": {
+							"gallery": [],
+							"ambients": {
+								"ambient1": {
+									"source": "https://s3.eu-west-1.amazonaws.com/vz.orders/production/preview_items/vr_images/images/000/006/300/b/vr_riviera_rooftop_terrace_empty_view_1.jpg",
 									"loaded": false
 								}
 							}
