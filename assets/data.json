@@ -1,6 +1,6 @@
 {
 	"title": "Charleston Place",
-	"subTitle": "Flag Terrace",
+	"subTitle": "Gadsden",
 	"logoLink": "https://charlestonplace.com/",
 	"thumbLink": "thumbnail.png",
 	"uiColor": "#0878e7",
@@ -13,20 +13,20 @@
 							"gallery": [],
 							"ambients": {
 								"ambient1": {
-									"source": "https://s3.eu-west-1.amazonaws.com/vz.orders/production/preview_items/vr_images/images/000/006/103/b/vr_flag_terrace_banquet_view_1.jpg",
+									"source": "https://s3.eu-west-1.amazonaws.com/vz.orders/production/preview_items/vr_images/images/000/006/098/b/vr_gadsden_banquet_view_1.jpg",
 									"loaded": false
 								}
 							}
 						}
 					}
 				},
-				"Cocktail": {
+				"Boardroom": {
 					"capacities": {
 						"capacity1": {
 							"gallery": [],
 							"ambients": {
 								"ambient1": {
-									"source": "https://s3.eu-west-1.amazonaws.com/vz.orders/production/preview_items/vr_images/images/000/006/113/b/vr_flag_terrace_reception_view_1.jpg",
+									"source": "https://s3.eu-west-1.amazonaws.com/vz.orders/production/preview_items/vr_images/images/000/006/099/b/vr_gadsden_boardroom_view_1.jpg",
 									"loaded": false
 								}
 							}
@@ -39,7 +39,7 @@
 							"gallery": [],
 							"ambients": {
 								"ambient1": {
-									"source": "https://s3.eu-west-1.amazonaws.com/vz.orders/production/preview_items/vr_images/images/000/006/102/b/vr_flag_terrace_empty_view_1.jpg",
+									"source": "https://s3.eu-west-1.amazonaws.com/vz.orders/production/preview_items/vr_images/images/000/006/100/b/vr_gadsden_empty_view_1.jpg",
 									"loaded": false
 								}
 							}
