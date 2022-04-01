@@ -1,11 +1,11 @@
 {
 	"title": "Charleston Place",
-	"subTitle": "Charleston Grill",
+	"subTitle": "Club Lounge",
 	"logoLink": "https://charlestonplace.com/",
 	"thumbLink": "thumbnail.png",
 	"uiColor": "#0878e7",
 	"locations": {
-		"Centre": {
+		"View 1": {
 			"styles": {
 				"View 1": {
 					"capacities": {
@@ -13,7 +13,7 @@
 							"gallery": [],
 							"ambients": {
 								"ambient1": {
-									"source": "https://s3.eu-west-1.amazonaws.com/vz.orders/production/preview_items/vr_images/images/000/008/020/b/vr_charleston_grill_view_2.jpg",
+									"source": "https://s3.eu-west-1.amazonaws.com/vz.orders/production/preview_items/vr_images/images/000/008/015/b/vr_club_lounge_empty_view_2.jpg",
 									"loaded": false
 								}
 							}
@@ -23,22 +23,15 @@
 			},
 			"links": [
 				{
-					"link": "Side",
-					"name": "Side",
-					"x": 5.954975410235911,
-					"y": -0.488242248208637,
-					"z": 9.104503686118743
-				},
-				{
-					"link": "Bar",
-					"name": "Bar",
-					"x": -3.5593418626957254,
-					"y": -0.24476747899029994,
-					"z": -8.97701366745591
+					"link": "View 2",
+					"name": "View 2",
+					"x": -1.5016741032960712,
+					"y": -0.7102541003486141,
+					"z": -8.580682606904181
 				}
 			]
 		},
-		"Side": {
+		"View 2": {
 			"styles": {
 				"View 1": {
 					"capacities": {
@@ -46,7 +39,7 @@
 							"gallery": [],
 							"ambients": {
 								"ambient1": {
-									"source": "https://s3.eu-west-1.amazonaws.com/vz.orders/production/preview_items/vr_images/images/000/008/018/b/vr_charleston_grill_view_3.jpg",
+									"source": "https://s3.eu-west-1.amazonaws.com/vz.orders/production/preview_items/vr_images/images/000/008/016/c/vr_club_lounge_empty_view_1.jpg",
 									"loaded": false
 								}
 							}
@@ -56,37 +49,11 @@
 			},
 			"links": [
 				{
-					"link": "Centre",
-					"name": "Centre",
-					"x": -10.507307814949053,
-					"y": -1.4907317228356576,
-					"z": 5.60126783973432
-				}
-			]
-		},
-		"Bar": {
-			"styles": {
-				"View 1": {
-					"capacities": {
-						"capacity1": {
-							"gallery": [],
-							"ambients": {
-								"ambient1": {
-									"source": "https://s3.eu-west-1.amazonaws.com/vz.orders/production/preview_items/vr_images/images/000/008/019/b/vr_charleston_grill_view_1.jpg",
-									"loaded": false
-								}
-							}
-						}
-					}
-				}
-			},
-			"links": [
-				{
-					"link": "Centre",
-					"name": "Centre",
-					"x": -5.724769306862009,
-					"y": -1.1608085333898266,
-					"z": 1.9714879994613121
+					"link": "View 1",
+					"name": "View 1",
+					"x": 0.2720306333190129,
+					"y": -2.8481940513783623,
+					"z": -7.887071064738094
 				}
 			]
 		}
