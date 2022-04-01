@@ -1,19 +1,58 @@
 {
 	"title": "Charleston Place",
-	"subTitle": "Conference Lounge",
+	"subTitle": "Cypress",
 	"logoLink": "https://charlestonplace.com/",
 	"thumbLink": "thumbnail.png",
 	"uiColor": "#0878e7",
 	"locations": {
 		"View 1": {
 			"styles": {
-				"View 1": {
+				"Banquet": {
 					"capacities": {
 						"capacity1": {
 							"gallery": [],
 							"ambients": {
 								"ambient1": {
-									"source": "https://s3.eu-west-1.amazonaws.com/vz.orders/production/preview_items/vr_images/images/000/006/142/e/vr_conference_lounge_view_1.jpg",
+									"source": "https://s3.eu-west-1.amazonaws.com/vz.orders/production/preview_items/vr_images/images/000/006/264/b/vr_cypress_banquet_view_1.jpg",
+									"loaded": false
+								}
+							}
+						}
+					}
+				},
+				"Classroom": {
+					"capacities": {
+						"capacity1": {
+							"gallery": [],
+							"ambients": {
+								"ambient1": {
+									"source": "https://s3.eu-west-1.amazonaws.com/vz.orders/production/preview_items/vr_images/images/000/010/619/b/vr_cypress_classroom_view_1.jpg",
+									"loaded": false
+								}
+							}
+						}
+					}
+				},
+				"U-Shape": {
+					"capacities": {
+						"capacity1": {
+							"gallery": [],
+							"ambients": {
+								"ambient1": {
+									"source": "https://s3.eu-west-1.amazonaws.com/vz.orders/production/preview_items/vr_images/images/000/010/621/b/vr_cypress_u_shape_view_1.jpg",
+									"loaded": false
+								}
+							}
+						}
+					}
+				},
+				"Empty": {
+					"capacities": {
+						"capacity1": {
+							"gallery": [],
+							"ambients": {
+								"ambient1": {
+									"source": "https://s3.eu-west-1.amazonaws.com/vz.orders/production/preview_items/vr_images/images/000/006/266/b/vr_cypress_empty_view_1.jpg",
 									"loaded": false
 								}
 							}
