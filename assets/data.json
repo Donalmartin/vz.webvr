@@ -1,6 +1,6 @@
 {
 	"title": "Charleston Place",
-	"subTitle": "Edmunds",
+	"subTitle": "Fenwick",
 	"logoLink": "https://charlestonplace.com/",
 	"thumbLink": "thumbnail.png",
 	"uiColor": "#0878e7",
@@ -13,46 +13,20 @@
 							"gallery": [],
 							"ambients": {
 								"ambient1": {
-									"source": "https://s3.eu-west-1.amazonaws.com/vz.orders/production/preview_items/vr_images/images/000/006/246/b/vr_edmunds_banquet_view_1.jpg",
+									"source": "https://s3.eu-west-1.amazonaws.com/vz.orders/production/preview_items/vr_images/images/000/006/095/b/vr_fenwick_banquet_view_1.jpg",
 									"loaded": false
 								}
 							}
 						}
 					}
 				},
-				"Classroom": {
+				"Boardroom": {
 					"capacities": {
 						"capacity1": {
 							"gallery": [],
 							"ambients": {
 								"ambient1": {
-									"source": "https://s3.eu-west-1.amazonaws.com/vz.orders/production/preview_items/vr_images/images/000/010/609/b/vr_edmunds_classroom_view_1.jpg",
-									"loaded": false
-								}
-							}
-						}
-					}
-				},
-				"Hollow Square": {
-					"capacities": {
-						"capacity1": {
-							"gallery": [],
-							"ambients": {
-								"ambient1": {
-									"source": "https://s3.eu-west-1.amazonaws.com/vz.orders/production/preview_items/vr_images/images/000/010/610/b/vr_edmunds_h_shape_view_1.jpg",
-									"loaded": false
-								}
-							}
-						}
-					}
-				},
-				"Theatre": {
-					"capacities": {
-						"capacity1": {
-							"gallery": [],
-							"ambients": {
-								"ambient1": {
-									"source": "https://s3.eu-west-1.amazonaws.com/vz.orders/production/preview_items/vr_images/images/000/010/613/b/vr_edmunds_theater_view_1.jpg",
+									"source": "https://s3.eu-west-1.amazonaws.com/vz.orders/production/preview_items/vr_images/images/000/006/096/b/vr_fenwick_boardroom_view_1.jpg",
 									"loaded": false
 								}
 							}
@@ -65,7 +39,7 @@
 							"gallery": [],
 							"ambients": {
 								"ambient1": {
-									"source": "https://s3.eu-west-1.amazonaws.com/vz.orders/production/preview_items/vr_images/images/000/006/245/b/vr_edmunds_empty_view_1.jpg",
+									"source": "https://s3.eu-west-1.amazonaws.com/vz.orders/production/preview_items/vr_images/images/000/006/097/b/vr_fenwick_empty_view_1.jpg",
 									"loaded": false
 								}
 							}
