@@ -1,6 +1,6 @@
 {
 	"title": "Charleston Place",
-	"subTitle": "Hampton",
+	"subTitle": "Harleston",
 	"logoLink": "https://charlestonplace.com/",
 	"thumbLink": "thumbnail.png",
 	"uiColor": "#0878e7",
@@ -13,7 +13,7 @@
 							"gallery": [],
 							"ambients": {
 								"ambient1": {
-									"source": "https://s3.eu-west-1.amazonaws.com/vz.orders/production/preview_items/vr_images/images/000/006/174/b/vr_hampton_banquet_view_1.jpg",
+									"source": "https://s3.eu-west-1.amazonaws.com/vz.orders/production/preview_items/vr_images/images/000/006/208/b/vr_harleston_banquet_view_1.jpg",
 									"loaded": false
 								}
 							}
@@ -26,20 +26,20 @@
 							"gallery": [],
 							"ambients": {
 								"ambient1": {
-									"source": "https://s3.eu-west-1.amazonaws.com/vz.orders/production/preview_items/vr_images/images/000/010/593/b/vr_hampton_classroom_view_1.jpg",
+									"source": "https://s3.eu-west-1.amazonaws.com/vz.orders/production/preview_items/vr_images/images/000/010/589/b/vr_harleston_classroom_view_1.jpg",
 									"loaded": false
 								}
 							}
 						}
 					}
 				},
-				"Hollow Square": {
+				"U Shape": {
 					"capacities": {
 						"capacity1": {
 							"gallery": [],
 							"ambients": {
 								"ambient1": {
-									"source": "https://s3.eu-west-1.amazonaws.com/vz.orders/production/preview_items/vr_images/images/000/010/595/b/vr_hampton_h_shape_view_1.jpg",
+									"source": "https://s3.eu-west-1.amazonaws.com/vz.orders/production/preview_items/vr_images/images/000/010/591/b/vr_harleston_u_shape_view_1.jpg",
 									"loaded": false
 								}
 							}
@@ -52,7 +52,7 @@
 							"gallery": [],
 							"ambients": {
 								"ambient1": {
-									"source": "https://s3.eu-west-1.amazonaws.com/vz.orders/production/preview_items/vr_images/images/000/006/176/b/vr_hampton_empty_view_1.jpg",
+									"source": "https://s3.eu-west-1.amazonaws.com/vz.orders/production/preview_items/vr_images/images/000/006/206/b/vr_harleston_empty_view_1.jpg",
 									"loaded": false
 								}
 							}
