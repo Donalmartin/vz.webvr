@@ -1,6 +1,6 @@
 {
 	"title": "Charleston Place",
-	"subTitle": "Willow & Magnolia",
+	"subTitle": "Willow",
 	"logoLink": "https://charlestonplace.com/",
 	"thumbLink": "thumbnail.png",
 	"uiColor": "#0878e7",
@@ -13,7 +13,7 @@
 							"gallery": [],
 							"ambients": {
 								"ambient1": {
-									"source": "https://s3.eu-west-1.amazonaws.com/vz.orders/production/preview_items/vr_images/images/000/006/548/b/vr_willow_and_magnolia_banquet_light_1_view_1.jpg",
+									"source": "https://s3.eu-west-1.amazonaws.com/vz.orders/production/preview_items/vr_images/images/000/006/466/b/vr_willow_banquet_view_1.jpg",
 									"loaded": false
 								}
 							}
@@ -26,20 +26,20 @@
 							"gallery": [],
 							"ambients": {
 								"ambient1": {
-									"source": "https://s3.eu-west-1.amazonaws.com/vz.orders/production/preview_items/vr_images/images/000/010/571/b/vr_willow_and_magnolia_classroom_light_1_view_1.jpg",
+									"source": "https://s3.eu-west-1.amazonaws.com/vz.orders/production/preview_items/vr_images/images/000/010/573/b/vr_willow_classroom_view_1.jpg",
 									"loaded": false
 								}
 							}
 						}
 					}
 				},
-				"Exhibition": {
+				"Hollow Square": {
 					"capacities": {
 						"capacity1": {
 							"gallery": [],
 							"ambients": {
 								"ambient1": {
-									"source": "https://s3.eu-west-1.amazonaws.com/vz.orders/production/preview_items/vr_images/images/000/006/547/b/vr_willow_and_magnolia_exhibition_light_1_view_1.jpg",
+									"source": "https://s3.eu-west-1.amazonaws.com/vz.orders/production/preview_items/vr_images/images/000/006/468/b/vr_willow_empty_view_1.jpg",
 									"loaded": false
 								}
 							}
