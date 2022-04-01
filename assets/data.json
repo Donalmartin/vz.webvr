@@ -1,19 +1,45 @@
 {
 	"title": "Charleston Place",
-	"subTitle": "Riviera Rooftop Terrace",
+	"subTitle": "Screening Room",
 	"logoLink": "https://charlestonplace.com/",
 	"thumbLink": "thumbnail.png",
 	"uiColor": "#0878e7",
 	"locations": {
 		"View 1": {
 			"styles": {
-				"Cocktail": {
+				"Banquet": {
 					"capacities": {
 						"capacity1": {
 							"gallery": [],
 							"ambients": {
 								"ambient1": {
-									"source": "https://s3.eu-west-1.amazonaws.com/vz.orders/production/preview_items/vr_images/images/000/006/301/b/vr_riviera_rooftop_terrace_reception_view_1.jpg",
+									"source": "https://s3.eu-west-1.amazonaws.com/vz.orders/production/preview_items/vr_images/images/000/006/412/b/vr_screening_room_banquet_l_light_1_view_1.jpg",
+									"loaded": false
+								}
+							}
+						}
+					}
+				},
+				"Classroom": {
+					"capacities": {
+						"capacity1": {
+							"gallery": [],
+							"ambients": {
+								"ambient1": {
+									"source": "https://s3.eu-west-1.amazonaws.com/vz.orders/production/preview_items/vr_images/images/000/010/577/b/vr_screening_room_classroom_l_light_1_view_1.jpg",
+									"loaded": false
+								}
+							}
+						}
+					}
+				},
+				"Hollow Square": {
+					"capacities": {
+						"capacity1": {
+							"gallery": [],
+							"ambients": {
+								"ambient1": {
+									"source": "https://s3.eu-west-1.amazonaws.com/vz.orders/production/preview_items/vr_images/images/000/010/579/b/vr_screening_room_h_shape_l_light_1_view_1.jpg",
 									"loaded": false
 								}
 							}
@@ -26,7 +52,7 @@
 							"gallery": [],
 							"ambients": {
 								"ambient1": {
-									"source": "https://s3.eu-west-1.amazonaws.com/vz.orders/production/preview_items/vr_images/images/000/006/300/b/vr_riviera_rooftop_terrace_empty_view_1.jpg",
+									"source": "https://s3.eu-west-1.amazonaws.com/vz.orders/production/preview_items/vr_images/images/000/006/414/b/vr_screening_room_empty_light_1_view_1.jpg",
 									"loaded": false
 								}
 							}
