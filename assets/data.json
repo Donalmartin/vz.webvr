@@ -1,58 +1,19 @@
 {
 	"title": "Charleston Place",
-	"subTitle": "Academy Room",
+	"subTitle": "Belmond Boardroom",
 	"logoLink": "https://charlestonplace.com/",
 	"thumbLink": "thumbnail.png",
 	"uiColor": "#51b5e0",
 	"locations": {
 		"location1": {
 			"styles": {
-				"Banquet": {
+				"Boardroom": {
 					"capacities": {
 						"capacity1": {
 							"gallery": [],
 							"ambients": {
 								"ambient1": {
-									"source": "https://s3.eu-west-1.amazonaws.com/vz.orders/production/preview_items/vr_images/images/000/006/143/b/vr_academy_room_banquet_view_1.jpg",
-									"loaded": false
-								}
-							}
-						}
-					}
-				},
-				"Classroom": {
-					"capacities": {
-						"capacity1": {
-							"gallery": [],
-							"ambients": {
-								"ambient1": {
-									"source": "https://s3.eu-west-1.amazonaws.com/vz.orders/production/preview_items/vr_images/images/000/010/645/b/vr_academy_room_classroom_view_1.jpg",
-									"loaded": false
-								}
-							}
-						}
-					}
-				},
-				"Hollow Square": {
-					"capacities": {
-						"capacity1": {
-							"gallery": [],
-							"ambients": {
-								"ambient1": {
-									"source": "https://s3.eu-west-1.amazonaws.com/vz.orders/production/preview_items/vr_images/images/000/010/647/b/vr_academy_room_h_shape_view_1.jpg",
-									"loaded": false
-								}
-							}
-						}
-					}
-				},
-				"Empty": {
-					"capacities": {
-						"capacity1": {
-							"gallery": [],
-							"ambients": {
-								"ambient1": {
-									"source": "https://s3.eu-west-1.amazonaws.com/vz.orders/production/preview_items/vr_images/images/000/006/145/b/vr_academy_room_empty_view_1.jpg",
+									"source": "https://s3.eu-west-1.amazonaws.com/vz.orders/production/preview_items/vr_images/images/000/006/101/b/vr_belmond_boardroom_boardroom_view_1.jpg",
 									"loaded": false
 								}
 							}
