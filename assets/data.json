@@ -33,7 +33,7 @@
 						}
 					}
 				},
-				"Square": {
+				"Hollow Square": {
 					"capacities": {
 						"capacity1": {
 							"gallery": [],
