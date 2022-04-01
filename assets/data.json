@@ -1,19 +1,19 @@
 {
 	"title": "Charleston Place",
-	"subTitle": "Lobby",
+	"subTitle": "Longborough",
 	"logoLink": "https://charlestonplace.com/",
 	"thumbLink": "thumbnail.png",
 	"uiColor": "#0878e7",
 	"locations": {
 		"Main Lobby": {
 			"styles": {
-				"View 1": {
+				"Empty": {
 					"capacities": {
 						"capacity1": {
 							"gallery": [],
 							"ambients": {
 								"ambient1": {
-									"source": "https://s3.eu-west-1.amazonaws.com/vz.orders/production/preview_items/vr_images/images/000/008/277/b/vr_lobby_view_1.jpg",
+									"source": "https://s3.eu-west-1.amazonaws.com/vz.orders/production/preview_items/vr_images/images/000/006/183/b/vr_longborough_view_1.jpg",
 									"loaded": false
 								}
 							}
@@ -21,41 +21,7 @@
 					}
 				}
 			},
-			"links": [
-				{
-					"link": "Reception",
-					"name": "Reception",
-					"x": -9.685951465034412,
-					"y": -0.7944198181585319,
-					"z": -5.362950808045385
-				}
-			]
-		},
-		"Reception": {
-			"styles": {
-				"View 1": {
-					"capacities": {
-						"capacity1": {
-							"gallery": [],
-							"ambients": {
-								"ambient1": {
-									"source": "https://s3.eu-west-1.amazonaws.com/vz.orders/production/preview_items/vr_images/images/000/008/278/b/vr_lobby_view_2.jpg",
-									"loaded": false
-								}
-							}
-						}
-					}
-				}
-			},
-			"links": [
-				{
-					"link": "Main Lobby",
-					"name": "Main Lobby",
-					"x": -11.019702731467467,
-					"y": -0.7279768119253517,
-					"z": -1.116333942593998
-				}
-			]
+			"links": []
 		}
 	}
 }
