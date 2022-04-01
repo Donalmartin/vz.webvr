@@ -1,6 +1,6 @@
 {
 	"title": "Charleston Place",
-	"subTitle": "Gadsden",
+	"subTitle": "Grand Ballroom",
 	"logoLink": "https://charlestonplace.com/",
 	"thumbLink": "thumbnail.png",
 	"uiColor": "#0878e7",
@@ -13,20 +13,62 @@
 							"gallery": [],
 							"ambients": {
 								"ambient1": {
-									"source": "https://s3.eu-west-1.amazonaws.com/vz.orders/production/preview_items/vr_images/images/000/006/098/b/vr_gadsden_banquet_view_1.jpg",
+									"source": "https://s3.eu-west-1.amazonaws.com/vz.orders/production/preview_items/vr_images/images/000/006/122/b/vr_grand_ballroom_banquet_view_1.jpg",
+									"loaded": false
+								},
+								"ambient2": {
+									"source": "https://s3.eu-west-1.amazonaws.com/vz.orders/production/preview_items/vr_images/images/000/006/523/b/vr_grand_ballroom_banquet_light_2_view_1.jpg",
 									"loaded": false
 								}
 							}
 						}
 					}
 				},
-				"Boardroom": {
+				"Cabaret": {
 					"capacities": {
 						"capacity1": {
 							"gallery": [],
 							"ambients": {
 								"ambient1": {
-									"source": "https://s3.eu-west-1.amazonaws.com/vz.orders/production/preview_items/vr_images/images/000/006/099/b/vr_gadsden_boardroom_view_1.jpg",
+									"source": "https://s3.eu-west-1.amazonaws.com/vz.orders/production/preview_items/vr_images/images/000/010/597/b/vr_grand_ballroom_cabaret_view_1.jpg",
+									"loaded": false
+								},
+								"ambient2": {
+									"source": "https://s3.eu-west-1.amazonaws.com/vz.orders/production/preview_items/vr_images/images/000/010/607/b/vr_grand_ballroom_cabaret_light_2_view_1.jpg",
+									"loaded": false
+								}
+							}
+						}
+					}
+				},
+				"Classroom": {
+					"capacities": {
+						"capacity1": {
+							"gallery": [],
+							"ambients": {
+								"ambient1": {
+									"source": "https://s3.eu-west-1.amazonaws.com/vz.orders/production/preview_items/vr_images/images/000/010/599/b/vr_grand_ballroom_classroom_view_1.jpg",
+									"loaded": false
+								},
+								"ambient2": {
+									"source": "https://s3.eu-west-1.amazonaws.com/vz.orders/production/preview_items/vr_images/images/000/010/601/b/vr_grand_ballroom_classroom_light_2_view_1.jpg",
+									"loaded": false
+								}
+							}
+						}
+					}
+				},
+				"Theatre": {
+					"capacities": {
+						"capacity1": {
+							"gallery": [],
+							"ambients": {
+								"ambient1": {
+									"source": "https://s3.eu-west-1.amazonaws.com/vz.orders/production/preview_items/vr_images/images/000/010/602/b/vr_grand_ballroom_theatre_view_1.jpg",
+									"loaded": false
+								},
+								"ambient2": {
+									"source": "https://s3.eu-west-1.amazonaws.com/vz.orders/production/preview_items/vr_images/images/000/010/605/b/vr_grand_ballroom_theater_light_2_view_1.jpg",
 									"loaded": false
 								}
 							}
@@ -39,7 +81,11 @@
 							"gallery": [],
 							"ambients": {
 								"ambient1": {
-									"source": "https://s3.eu-west-1.amazonaws.com/vz.orders/production/preview_items/vr_images/images/000/006/100/b/vr_gadsden_empty_view_1.jpg",
+									"source": "https://s3.eu-west-1.amazonaws.com/vz.orders/production/preview_items/vr_images/images/000/006/124/b/vr_grand_ballroom_empty_view_1.jpg",
+									"loaded": false
+								},
+								"ambient2": {
+									"source": "https://s3.eu-west-1.amazonaws.com/vz.orders/production/preview_items/vr_images/images/000/006/522/b/vr_grand_ballroom_empty_light_2_view_1.jpg",
 									"loaded": false
 								}
 							}
