@@ -1,45 +1,45 @@
 {
 	"title": "Charleston Place",
-	"subTitle": "Grand Hall",
+	"subTitle": "Hampton",
 	"logoLink": "https://charlestonplace.com/",
 	"thumbLink": "thumbnail.png",
 	"uiColor": "#0878e7",
 	"locations": {
 		"View 1": {
 			"styles": {
-				"Cocktail": {
+				"Banquet": {
 					"capacities": {
 						"capacity1": {
 							"gallery": [],
 							"ambients": {
 								"ambient1": {
-									"source": "https://s3.eu-west-1.amazonaws.com/vz.orders/production/preview_items/vr_images/images/000/006/567/b/vr_grand_hall_reception_light_1_view_1.jpg",
+									"source": "https://s3.eu-west-1.amazonaws.com/vz.orders/production/preview_items/vr_images/images/000/006/174/b/vr_hampton_banquet_view_1.jpg",
 									"loaded": false
 								}
 							}
 						}
 					}
 				},
-				"Exhibition": {
+				"Classroom": {
 					"capacities": {
 						"capacity1": {
 							"gallery": [],
 							"ambients": {
 								"ambient1": {
-									"source": "https://s3.eu-west-1.amazonaws.com/vz.orders/production/preview_items/vr_images/images/000/006/566/b/vr_grand_hall_exhibition_light_1_view_1.jpg",
+									"source": "https://s3.eu-west-1.amazonaws.com/vz.orders/production/preview_items/vr_images/images/000/010/593/b/vr_hampton_classroom_view_1.jpg",
 									"loaded": false
 								}
 							}
 						}
 					}
 				},
-				"Coffee": {
+				"Hollow Square": {
 					"capacities": {
 						"capacity1": {
 							"gallery": [],
 							"ambients": {
 								"ambient1": {
-									"source": "https://s3.eu-west-1.amazonaws.com/vz.orders/production/preview_items/vr_images/images/000/006/568/b/vr_grand_hall_coffee_break_light_1_view_1.jpg",
+									"source": "https://s3.eu-west-1.amazonaws.com/vz.orders/production/preview_items/vr_images/images/000/010/595/b/vr_hampton_h_shape_view_1.jpg",
 									"loaded": false
 								}
 							}
@@ -52,7 +52,7 @@
 							"gallery": [],
 							"ambients": {
 								"ambient1": {
-									"source": "https://s3.eu-west-1.amazonaws.com/vz.orders/production/preview_items/vr_images/images/000/006/565/b/vr_grand_hall_empty_light_1_view_1.jpg",
+									"source": "https://s3.eu-west-1.amazonaws.com/vz.orders/production/preview_items/vr_images/images/000/006/176/b/vr_hampton_empty_view_1.jpg",
 									"loaded": false
 								}
 							}
