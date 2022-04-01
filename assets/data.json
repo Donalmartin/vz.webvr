@@ -1,45 +1,19 @@
 {
 	"title": "Charleston Place",
-	"subTitle": "Fenwick",
+	"subTitle": "Fitness Center",
 	"logoLink": "https://charlestonplace.com/",
 	"thumbLink": "thumbnail.png",
 	"uiColor": "#0878e7",
 	"locations": {
 		"View 1": {
 			"styles": {
-				"Banquet": {
+				"View 1": {
 					"capacities": {
 						"capacity1": {
 							"gallery": [],
 							"ambients": {
 								"ambient1": {
-									"source": "https://s3.eu-west-1.amazonaws.com/vz.orders/production/preview_items/vr_images/images/000/006/095/b/vr_fenwick_banquet_view_1.jpg",
-									"loaded": false
-								}
-							}
-						}
-					}
-				},
-				"Boardroom": {
-					"capacities": {
-						"capacity1": {
-							"gallery": [],
-							"ambients": {
-								"ambient1": {
-									"source": "https://s3.eu-west-1.amazonaws.com/vz.orders/production/preview_items/vr_images/images/000/006/096/b/vr_fenwick_boardroom_view_1.jpg",
-									"loaded": false
-								}
-							}
-						}
-					}
-				},
-				"Empty": {
-					"capacities": {
-						"capacity1": {
-							"gallery": [],
-							"ambients": {
-								"ambient1": {
-									"source": "https://s3.eu-west-1.amazonaws.com/vz.orders/production/preview_items/vr_images/images/000/006/097/b/vr_fenwick_empty_view_1.jpg",
+									"source": "https://s3.eu-west-1.amazonaws.com/vz.orders/production/preview_items/vr_images/images/000/007/988/b/vr_fitness_center_view_1.jpg",
 									"loaded": false
 								}
 							}
@@ -47,7 +21,41 @@
 					}
 				}
 			},
-			"links": []
+			"links": [
+				{
+					"link": "View 2",
+					"name": "View 2",
+					"x": -3.733284410217234,
+					"y": -0.6789491860936397,
+					"z": -8.490678154018779
+				}
+			]
+		},
+		"View 2": {
+			"styles": {
+				"View 1": {
+					"capacities": {
+						"capacity1": {
+							"gallery": [],
+							"ambients": {
+								"ambient1": {
+									"source": "https://s3.eu-west-1.amazonaws.com/vz.orders/production/preview_items/vr_images/images/000/007/989/b/vr_fitness_center_view_2.jpg",
+									"loaded": false
+								}
+							}
+						}
+					}
+				}
+			},
+			"links": [
+				{
+					"link": "View 1",
+					"name": "View 1",
+					"x": 1.6286968808378197,
+					"y": -0.5517927931588065,
+					"z": -8.222096519973915
+				}
+			]
 		}
 	}
 }
