@@ -1,19 +1,32 @@
 {
 	"title": "Charleston Place",
-	"subTitle": "Meeting at Market",
+	"subTitle": "Palmetto Cafe",
 	"logoLink": "https://charlestonplace.com/",
 	"thumbLink": "thumbnail.png",
 	"uiColor": "#0878e7",
 	"locations": {
 		"View 1": {
 			"styles": {
-				"View 1": {
+				"Banquet": {
 					"capacities": {
 						"capacity1": {
 							"gallery": [],
 							"ambients": {
 								"ambient1": {
-									"source": "https://s3.eu-west-1.amazonaws.com/vz.orders/production/preview_items/vr_images/images/000/008/248/b/vr_meeting_at_market_empty_view_1.jpg",
+									"source": "https://s3.eu-west-1.amazonaws.com/vz.orders/production/preview_items/vr_images/images/000/006/469/b/vr_palmetto_cafe_and_courtyard_view_1.jpg",
+									"loaded": false
+								}
+							}
+						}
+					}
+				},
+				"Dinner": {
+					"capacities": {
+						"capacity1": {
+							"gallery": [],
+							"ambients": {
+								"ambient1": {
+									"source": "https://s3.eu-west-1.amazonaws.com/vz.orders/production/preview_items/vr_images/images/000/006/535/b/vr_palmetto_cafe_and_courtyard_banquet_view_1.jpg",
 									"loaded": false
 								}
 							}
