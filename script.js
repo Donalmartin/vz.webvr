@@ -1173,15 +1173,15 @@ function updateActives(from){
                 capacityButton.setAttribute("type", "button");
                 capacityButton.setAttribute("class", "capacityButton");
                 capacityButton.setAttribute("onclick", "clickedCapacity(this)");
-                capacityButton.setAttribute("alt", "capicity " + capacitySpan.innerHTML)
+                capacityButton.setAttribute("title", "capacity " + capacitySpan.innerHTML)
             
             capacityButton.appendChild(capacitySVG);
             capacityButton.appendChild(capacitySpan);
           //  capacitySVG.style.float = "left";
             
             const cDiv = document.createElement("div");
+            cDiv.setAttribute("class", "capacitySelect");
             cDiv.appendChild(capacityButton);
-            
                 collapseCapacitiesHTML.appendChild(cDiv);
                 
                 capacityButton.style.setProperty("--i", Array.from(collapseCapacitiesHTML.children).indexOf(cDiv));
@@ -1205,7 +1205,7 @@ function updateActives(from){
                 collapseCapacitiesHTML.classList.remove('in');
                 collapseCapacitiesHTML.classList.add('activeBackward');
                 iterationCount = 0;
-                document.getElementById("toggleCapSliderButton").setAttribute("title", "Switch Capacity");
+                document.getElementById("toggleCapSliderButton").setAttribute("title", "Select Capacity");
 
             }
         }
@@ -1374,6 +1374,8 @@ function toggleMainSlider(button) {
 
 
 function toggleCapSlider(button) {
+    const nar = document.getElementById("collapseCapacities");
+    document.getElementById("collapseCapacities").focus();
     if(collapseCapacitiesHTML.childElementCount > 1) {
          let active = collapseCapacitiesHTML.classList.contains('activeForward');
         if (active) {
@@ -1383,14 +1385,15 @@ function toggleCapSlider(button) {
                 collapseCapacitiesHTML.classList.remove('out');
                 collapseCapacitiesHTML.classList.add('activeForward');
                 iterationCount = 0;
-                button.setAttribute("title", "Hide List");
+                button.setAttribute("title", "Close capacity");
+
 
 
             } else if(collapseCapacitiesHTML.classList.contains("in")) {
                 collapseCapacitiesHTML.classList.remove('in');
                 collapseCapacitiesHTML.classList.add('activeBackward');
                 iterationCount = 0;
-                button.setAttribute("title", "Switch Capacity");
+                button.setAttribute("title", "Capacity " + activeCapacity );
 
             }
         }

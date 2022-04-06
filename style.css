@@ -45,6 +45,10 @@ body {
     top: calc(max(var(--minTitleMenuWidth)*0.1, calc(var(--clientHeight)*0.05))*1px);
 }
 
+#collapseTitleMenu img {
+    padding: 10px;
+}
+
 #collapseTitleMenu a{
     max-width: 100%;
     margin: auto
@@ -169,7 +173,7 @@ img-floorplan {
     position: relative;
 /*    top: -250%; */
     background-color: rgba(0, 0, 0, 0.4);
-    float: right;
+    float: left;
         transform: translate(calc(calc(4 - var(--visibleIcons))*calc(max(var(--minTopPenuHeight), min(var(--maxTopPenuHeight), min(calc(var(--clientHeight)*0.05),calc(var(--clientWidth)*0.033))))*1px)), -100%);
     top: calc(max(var(--minTopPenuHeight), min(var(--maxTopPenuHeight), min(calc(var(--clientHeight)*0.05),calc(var(--clientWidth)*0.033))))*1px);
     opacity: 0;
