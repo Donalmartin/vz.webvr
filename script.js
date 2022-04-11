@@ -1160,7 +1160,7 @@ function updateActives(from){
             capacitySVG.setAttribute("viewBox", "0 0 16 16");
             capacitySVG.appendChild(capacityPath);
            // capacitySVG.style.height = "100%";
-             
+
             
             const capacitySpan = document.createElement("span");
           //  capacitySpan.style.fontSize = (document.getElementById("toggleCapSliderButton").clientWidth/3).toString() + "px";
@@ -1183,9 +1183,11 @@ function updateActives(from){
             cDiv.setAttribute("class", "capacitySelect");
             cDiv.appendChild(capacityButton);
                 collapseCapacitiesHTML.appendChild(cDiv);
+            
                 
                 capacityButton.style.setProperty("--i", Array.from(collapseCapacitiesHTML.children).indexOf(cDiv));
          }
+
         
         for(var capacityButtonP in collapseCapacitiesHTML.children) {
             if (typeof collapseCapacitiesHTML.children[capacityButtonP] == "object") {
@@ -1376,6 +1378,8 @@ function toggleMainSlider(button) {
 function toggleCapSlider(button) {
     const nar = document.getElementById("collapseCapacities");
     document.getElementById("collapseCapacities").focus();
+    document.getElementById("currentCap").innerHTML = "Current Capacity is " + activeCapacity;
+
     if(collapseCapacitiesHTML.childElementCount > 1) {
          let active = collapseCapacitiesHTML.classList.contains('activeForward');
         if (active) {

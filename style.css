@@ -733,3 +733,12 @@ button:focus-visible {
     outline: 5px dashed #a2ce3b !important;
 }
 
+.sr-only {
+    position: absolute;
+    left: -10000px;
+    top: auto;
+    width: 1px;
+    height: 1px;
+    overflow: hidden;
+}
+
