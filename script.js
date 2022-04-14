@@ -1376,9 +1376,14 @@ function toggleMainSlider(button) {
 
 
 function toggleCapSlider(button) {
+    let dots = Math.floor(Math.random() * 5);
+    let result = "";
+    for (i = 0; i < dots; i++) {
+        result = result + '.';
+    }
     const nar = document.getElementById("collapseCapacities");
     document.getElementById("collapseCapacities").focus();
-    document.getElementById("currentCap").innerHTML = "Current Capacity is " + activeCapacity;
+    document.getElementById("currentCap").innerHTML = "Current Capacity is " + activeCapacity + result;
 
     if(collapseCapacitiesHTML.childElementCount > 1) {
          let active = collapseCapacitiesHTML.classList.contains('activeForward');
