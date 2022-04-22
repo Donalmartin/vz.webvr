@@ -1,32 +1,58 @@
 {
-	"title": "Adult Pool",
-	"subTitle": "Adult Pool",
+	"title": "Event Lawn",
+	"subTitle": "Event Lawn",
 	"logoLink": "#",
 	"thumbLink": "thumbnail.png",
 	"uiColor": "#0878e7",
 	"locations": {
 		"View 1": {
 			"styles": {
-				"Setup 1": {
+				"Wedding": {
 					"capacities": {
 						"capacity1": {
 							"gallery": [],
 							"ambients": {
 								"ambient1": {
-									"source": "https://s3.eu-west-1.amazonaws.com/vz.orders/production/preview_items/vr_images/images/000/010/749/b/vr_adult_pool_setup_1_vr_view_1.jpg",
+									"source": "https://s3.eu-west-1.amazonaws.com/vz.orders/production/preview_items/vr_images/images/000/010/758/b/vr_event_lawn_wedding_vr_view_1.jpg",
 									"loaded": false
 								}
 							}
 						}
 					}
 				},
-				"Setup 2": {
+				"Banquet": {
 					"capacities": {
 						"capacity1": {
 							"gallery": [],
 							"ambients": {
 								"ambient1": {
-									"source": "https://s3.eu-west-1.amazonaws.com/vz.orders/production/preview_items/vr_images/images/000/010/750/b/vr_adult_pool_setup_2_vr_view_1.jpg",
+									"source": "https://s3.eu-west-1.amazonaws.com/vz.orders/production/preview_items/vr_images/images/000/010/755/b/vr_event_lawn_banquet_vr_view_1.jpg",
+									"loaded": false
+								}
+							}
+						}
+					}
+				},
+				"Reception": {
+					"capacities": {
+						"capacity1": {
+							"gallery": [],
+							"ambients": {
+								"ambient1": {
+									"source": "https://s3.eu-west-1.amazonaws.com/vz.orders/production/preview_items/vr_images/images/000/010/756/b/vr_event_lawn_reception_vr_view_1.jpg",
+									"loaded": false
+								}
+							}
+						}
+					}
+				},
+				"Theatre": {
+					"capacities": {
+						"capacity1": {
+							"gallery": [],
+							"ambients": {
+								"ambient1": {
+									"source": "https://s3.eu-west-1.amazonaws.com/vz.orders/production/preview_items/vr_images/images/000/010/757/b/vr_event_lawn_theater_vr_view_1.jpg",
 									"loaded": false
 								}
 							}
@@ -39,7 +65,7 @@
 							"gallery": [],
 							"ambients": {
 								"ambient1": {
-									"source": "https://s3.eu-west-1.amazonaws.com/vz.orders/production/preview_items/vr_images/images/000/010/751/b/vr_adult_pool_empty_vr_view_1.jpg",
+									"source": "https://s3.eu-west-1.amazonaws.com/vz.orders/production/preview_items/vr_images/images/000/010/318/b/vr_event_lawn_empty_vr_view_1.jpg",
 									"loaded": false
 								}
 							}
