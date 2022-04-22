@@ -1,6 +1,6 @@
 {
-	"title": "Waldorf Astoria Arizona Biltmore",
-	"subTitle": "Grand Ballroom",
+	"title": "Frank Lloyd Wright Ballroom",
+	"subTitle": "Frank Lloyd Wright Ballroom",
 	"logoLink": "#",
 	"thumbLink": "thumbnail.png",
 	"uiColor": "#0878e7",
@@ -13,7 +13,7 @@
 							"gallery": [],
 							"ambients": {
 								"ambient1": {
-									"source": "https://s3.eu-west-1.amazonaws.com/vz.orders/production/preview_items/vr_images/images/000/010/739/b/vr_grand_ballroom_wedding_vr_view_1.jpg",
+									"source": "https://s3.eu-west-1.amazonaws.com/vz.orders/production/preview_items/vr_images/images/000/010/786/b/vr_frank_lloyd_wright_ballroom_wedding_vr_view_1.jpg",
 									"loaded": false
 								}
 							}
@@ -26,7 +26,7 @@
 							"gallery": [],
 							"ambients": {
 								"ambient1": {
-									"source": "https://s3.eu-west-1.amazonaws.com/vz.orders/production/preview_items/vr_images/images/000/010/740/b/vr_grand_ballroom_banquet_vr_view_1.jpg",
+									"source": "https://s3.eu-west-1.amazonaws.com/vz.orders/production/preview_items/vr_images/images/000/010/781/b/vr_frank_lloyd_wright_ballroom_banquet_vr_view_1.jpg",
 									"loaded": false
 								}
 							}
@@ -39,20 +39,20 @@
 							"gallery": [],
 							"ambients": {
 								"ambient1": {
-									"source": "https://s3.eu-west-1.amazonaws.com/vz.orders/production/preview_items/vr_images/images/000/010/737/b/vr_grand_ballroom_classroom_vr_view_1.jpg",
+									"source": "https://s3.eu-west-1.amazonaws.com/vz.orders/production/preview_items/vr_images/images/000/010/782/b/vr_frank_lloyd_wright_ballroom_classroom_vr_view_1.jpg",
 									"loaded": false
 								}
 							}
 						}
 					}
 				},
-				"Cabaret": {
+				"Reception": {
 					"capacities": {
 						"capacity1": {
 							"gallery": [],
 							"ambients": {
 								"ambient1": {
-									"source": "https://s3.eu-west-1.amazonaws.com/vz.orders/production/preview_items/vr_images/images/000/010/741/b/vr_grand_ballroom_cabaret_vr_view_1.jpg",
+									"source": "https://s3.eu-west-1.amazonaws.com/vz.orders/production/preview_items/vr_images/images/000/010/783/b/vr_frank_lloyd_wright_ballroom_reception_vr_view_1.jpg",
 									"loaded": false
 								}
 							}
@@ -65,7 +65,7 @@
 							"gallery": [],
 							"ambients": {
 								"ambient1": {
-									"source": "https://s3.eu-west-1.amazonaws.com/vz.orders/production/preview_items/vr_images/images/000/010/738/b/vr_grand_ballroom_theater_vr_view_1.jpg",
+									"source": "https://s3.eu-west-1.amazonaws.com/vz.orders/production/preview_items/vr_images/images/000/010/784/b/vr_frank_lloyd_wright_ballroom_theater_vr_view_1.jpg",
 									"loaded": false
 								}
 							}
@@ -78,7 +78,7 @@
 							"gallery": [],
 							"ambients": {
 								"ambient1": {
-									"source": "https://s3.eu-west-1.amazonaws.com/vz.orders/production/preview_items/vr_images/images/000/010/747/b/vr_grand_ballroom_empty_vr_view_1.jpg",
+									"source": "https://s3.eu-west-1.amazonaws.com/vz.orders/production/preview_items/vr_images/images/000/010/785/b/vr_frank_lloyd_wright_ballroom_vr_empty_view_1.jpg",
 									"loaded": false
 								}
 							}
