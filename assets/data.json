@@ -1,84 +1,19 @@
 {
-	"title": "Arizona Biltmore Ballroom",
-	"subTitle": "Arizona Biltmore Ballroom",
+	"title": "Kaibab",
+	"subTitle": "Kaibab",
 	"logoLink": "#",
 	"thumbLink": "thumbnail.png",
 	"uiColor": "#0878e7",
 	"locations": {
 		"View 1": {
 			"styles": {
-				"Wedding": {
+				"Boardroom": {
 					"capacities": {
 						"capacity1": {
 							"gallery": [],
 							"ambients": {
 								"ambient1": {
-									"source": "https://s3.eu-west-1.amazonaws.com/vz.orders/production/preview_items/vr_images/images/000/010/774/b/vr_arisona_biltmore_ballroom_wedding_vr_view_1.jpg",
-									"loaded": false
-								}
-							}
-						}
-					}
-				},
-				"Banquet": {
-					"capacities": {
-						"capacity1": {
-							"gallery": [],
-							"ambients": {
-								"ambient1": {
-									"source": "https://s3.eu-west-1.amazonaws.com/vz.orders/production/preview_items/vr_images/images/000/010/769/b/vr_arisona_biltmore_ballroom_banquet_vr_view_1.jpg",
-									"loaded": false
-								}
-							}
-						}
-					}
-				},
-				"Classroom": {
-					"capacities": {
-						"capacity1": {
-							"gallery": [],
-							"ambients": {
-								"ambient1": {
-									"source": "https://s3.eu-west-1.amazonaws.com/vz.orders/production/preview_items/vr_images/images/000/010/770/b/vr_arisona_biltmore_ballroom_classroom_vr_view_1.jpg",
-									"loaded": false
-								}
-							}
-						}
-					}
-				},
-				"Reception": {
-					"capacities": {
-						"capacity1": {
-							"gallery": [],
-							"ambients": {
-								"ambient1": {
-									"source": "https://s3.eu-west-1.amazonaws.com/vz.orders/production/preview_items/vr_images/images/000/010/772/b/vr_arisona_biltmore_ballroom_reception_vr_view_1.jpg",
-									"loaded": false
-								}
-							}
-						}
-					}
-				},
-				"Theatre": {
-					"capacities": {
-						"capacity1": {
-							"gallery": [],
-							"ambients": {
-								"ambient1": {
-									"source": "https://s3.eu-west-1.amazonaws.com/vz.orders/production/preview_items/vr_images/images/000/010/773/b/vr_arisona_biltmore_ballroom_theater_vr_view_1.jpg",
-									"loaded": false
-								}
-							}
-						}
-					}
-				},
-				"Empty": {
-					"capacities": {
-						"capacity1": {
-							"gallery": [],
-							"ambients": {
-								"ambient1": {
-									"source": "https://s3.eu-west-1.amazonaws.com/vz.orders/production/preview_items/vr_images/images/000/010/771/b/vr_arisona_biltmore_ballroom_empty_vr_view_1.jpg",
+									"source": "https://s3.eu-west-1.amazonaws.com/vz.orders/production/preview_items/vr_images/images/000/010/794/b/vr_kaibab_boardroom_vr_view_1.jpg",
 									"loaded": false
 								}
 							}
