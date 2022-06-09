@@ -1,32 +1,58 @@
 {
 	"title": "Boca Raton Resort Club",
-	"subTitle": "Beach Club Pool Deck",
+	"subTitle": "Cathedral",
 	"logoLink": "",
 	"thumbLink": "thumbnail.png",
 	"uiColor": "#51b5e0",
 	"locations": {
 		"location1": {
 			"styles": {
-				"Banquet Dance Floor": {
+				"Banquet": {
 					"capacities": {
 						"capacity1": {
 							"gallery": [],
 							"ambients": {
 								"ambient1": {
-									"source": "https://s3.eu-west-1.amazonaws.com/vz.orders/production/preview_items/vr_images/images/000/009/885/b/vr_beach_club_pool_deck_banquet_vr_with_dancefloor.jpg",
+									"source": "https://s3.eu-west-1.amazonaws.com/vz.orders/production/preview_items/vr_images/images/000/009/170/b/vr_cathedral_room_banquet_view_1.jpg",
 									"loaded": false
 								}
 							}
 						}
 					}
 				},
-				"Banquet With Reception": {
+				"Classroom": {
 					"capacities": {
 						"capacity1": {
 							"gallery": [],
 							"ambients": {
 								"ambient1": {
-									"source": "https://s3.eu-west-1.amazonaws.com/vz.orders/production/preview_items/vr_images/images/000/009/884/b/vr_beach_club_pool_deck_banquet_vr_with_reception.jpg",
+									"source": "https://s3.eu-west-1.amazonaws.com/vz.orders/production/preview_items/vr_images/images/000/009/171/b/vr_cathedral_room_classroom_view_1.jpg",
+									"loaded": false
+								}
+							}
+						}
+					}
+				},
+				"Theatre": {
+					"capacities": {
+						"capacity1": {
+							"gallery": [],
+							"ambients": {
+								"ambient1": {
+									"source": "https://s3.eu-west-1.amazonaws.com/vz.orders/production/preview_items/vr_images/images/000/009/174/b/vr_cathedral_room_theater_view_1.jpg",
+									"loaded": false
+								}
+							}
+						}
+					}
+				},
+				"Wedding": {
+					"capacities": {
+						"capacity1": {
+							"gallery": [],
+							"ambients": {
+								"ambient1": {
+									"source": "https://s3.eu-west-1.amazonaws.com/vz.orders/production/preview_items/vr_images/images/000/009/175/b/vr_cathedral_room_wedding_view_1.jpg",
 									"loaded": false
 								}
 							}
@@ -39,7 +65,7 @@
 							"gallery": [],
 							"ambients": {
 								"ambient1": {
-									"source": "https://s3.eu-west-1.amazonaws.com/vz.orders/production/preview_items/vr_images/images/000/009/883/b/vr_beach_club_pool_deck_reception_vr_with_dancefloor.jpg",
+									"source": "https://s3.eu-west-1.amazonaws.com/vz.orders/production/preview_items/vr_images/images/000/009/173/b/vr_cathedral_room_reception_view_1.jpg",
 									"loaded": false
 								}
 							}
@@ -52,7 +78,7 @@
 							"gallery": [],
 							"ambients": {
 								"ambient1": {
-									"source": "https://s3.eu-west-1.amazonaws.com/vz.orders/production/preview_items/vr_images/images/000/009/882/b/vr_beach_club_pool_deck_empty_vr_view_1.jpg",
+									"source": "https://s3.eu-west-1.amazonaws.com/vz.orders/production/preview_items/vr_images/images/000/009/172/b/vr_cathedral_room_empty_view_1.jpg",
 									"loaded": false
 								}
 							}
