@@ -1,6 +1,6 @@
 {
 	"title": "Boca Raton Resort Club",
-	"subTitle": "Grand Lawn",
+	"subTitle": "Grand Preassembly",
 	"logoLink": "",
 	"thumbLink": "thumbnail.png",
 	"uiColor": "#51b5e0",
@@ -13,46 +13,20 @@
 							"gallery": [],
 							"ambients": {
 								"ambient1": {
-									"source": "https://s3.eu-west-1.amazonaws.com/vz.orders/production/preview_items/vr_images/images/000/009/585/b/vr_grand_lawn_banquet_vr_view_1.jpg",
+									"source": "https://s3.eu-west-1.amazonaws.com/vz.orders/production/preview_items/vr_images/images/000/009/649/b/vr_grand_preassembly_banquet_vr_view_1.jpg",
 									"loaded": false
 								}
 							}
 						}
 					}
 				},
-				"Wedding": {
+				"Reception": {
 					"capacities": {
 						"capacity1": {
 							"gallery": [],
 							"ambients": {
 								"ambient1": {
-									"source": "https://s3.eu-west-1.amazonaws.com/vz.orders/production/preview_items/vr_images/images/000/009/584/b/vr_grand_lawn_wedding_vr_view_1.jpg",
-									"loaded": false
-								}
-							}
-						}
-					}
-				},
-				"Reception Small": {
-					"capacities": {
-						"capacity1": {
-							"gallery": [],
-							"ambients": {
-								"ambient1": {
-									"source": "https://s3.eu-west-1.amazonaws.com/vz.orders/production/preview_items/vr_images/images/000/009/583/b/vr_grand_lawn_reception_vr_small_view_1.jpg",
-									"loaded": false
-								}
-							}
-						}
-					}
-				},
-				"Reception Large": {
-					"capacities": {
-						"capacity1": {
-							"gallery": [],
-							"ambients": {
-								"ambient1": {
-									"source": "https://s3.eu-west-1.amazonaws.com/vz.orders/production/preview_items/vr_images/images/000/009/582/b/vr_grand_lawn_reception_vr_large_view_1.jpg",
+									"source": "https://s3.eu-west-1.amazonaws.com/vz.orders/production/preview_items/vr_images/images/000/009/647/b/vr_grand_preassembly_reception_vr_view_1.jpg",
 									"loaded": false
 								}
 							}
@@ -65,7 +39,7 @@
 							"gallery": [],
 							"ambients": {
 								"ambient1": {
-									"source": "https://s3.eu-west-1.amazonaws.com/vz.orders/production/preview_items/vr_images/images/000/009/586/b/vr_grand_lawn_empty_vr_view_1.jpg",
+									"source": "https://s3.eu-west-1.amazonaws.com/vz.orders/production/preview_items/vr_images/images/000/009/648/b/vr_grand_preassembly_empty_vr_view_1.jpg",
 									"loaded": false
 								}
 							}
