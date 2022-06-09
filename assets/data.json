@@ -1,19 +1,32 @@
 {
 	"title": "Boca Raton Resort Club",
-	"subTitle": "Santa Margarita",
+	"subTitle": "Portofino",
 	"logoLink": "",
 	"thumbLink": "thumbnail.png",
 	"uiColor": "#51b5e0",
 	"locations": {
 		"location1": {
 			"styles": {
+				"Banquet": {
+					"capacities": {
+						"capacity1": {
+							"gallery": [],
+							"ambients": {
+								"ambient1": {
+									"source": "https://s3.eu-west-1.amazonaws.com/vz.orders/production/preview_items/vr_images/images/000/010/130/b/vr_portofino_banquet_vr_view_1.jpg",
+									"loaded": false
+								}
+							}
+						}
+					}
+				},
 				"Classroom": {
 					"capacities": {
 						"capacity1": {
 							"gallery": [],
 							"ambients": {
 								"ambient1": {
-									"source": "https://s3.eu-west-1.amazonaws.com/vz.orders/production/preview_items/vr_images/images/000/010/134/b/vr_santa_margarita_classroom_vr_view_1.jpg",
+									"source": "https://s3.eu-west-1.amazonaws.com/vz.orders/production/preview_items/vr_images/images/000/010/131/b/vr_portofino_classroom_vr_view_1.jpg",
 									"loaded": false
 								}
 							}
@@ -26,7 +39,7 @@
 							"gallery": [],
 							"ambients": {
 								"ambient1": {
-									"source": "https://s3.eu-west-1.amazonaws.com/vz.orders/production/preview_items/vr_images/images/000/010/135/b/vr_santa_margarita_theater_vr_view_1.jpg",
+									"source": "https://s3.eu-west-1.amazonaws.com/vz.orders/production/preview_items/vr_images/images/000/010/132/b/vr_portofino_theater_vr_view_1.jpg",
 									"loaded": false
 								}
 							}
@@ -39,7 +52,7 @@
 							"gallery": [],
 							"ambients": {
 								"ambient1": {
-									"source": "https://s3.eu-west-1.amazonaws.com/vz.orders/production/preview_items/vr_images/images/000/010/207/b/vr_santa_margarita_u_shape_vr_view_1.jpg",
+									"source": "https://s3.eu-west-1.amazonaws.com/vz.orders/production/preview_items/vr_images/images/000/010/133/b/vr_portofino_u_shape_vr_view_1.jpg",
 									"loaded": false
 								}
 							}
@@ -52,7 +65,7 @@
 							"gallery": [],
 							"ambients": {
 								"ambient1": {
-									"source": "https://s3.eu-west-1.amazonaws.com/vz.orders/production/preview_items/vr_images/images/000/009/891/b/vr_santa_margarita_empty_vr_view_1.jpg",
+									"source": "https://s3.eu-west-1.amazonaws.com/vz.orders/production/preview_items/vr_images/images/000/009/927/b/vr_portofino_empty_vr_view_1.jpg",
 									"loaded": false
 								}
 							}
