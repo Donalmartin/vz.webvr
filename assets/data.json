@@ -1,6 +1,6 @@
 {
 	"title": "Boca Raton Resort Club",
-	"subTitle": "Cathedral",
+	"subTitle": "Cabana Pool Lawn",
 	"logoLink": "",
 	"thumbLink": "thumbnail.png",
 	"uiColor": "#51b5e0",
@@ -13,46 +13,33 @@
 							"gallery": [],
 							"ambients": {
 								"ambient1": {
-									"source": "https://s3.eu-west-1.amazonaws.com/vz.orders/production/preview_items/vr_images/images/000/009/170/b/vr_cathedral_room_banquet_view_1.jpg",
+									"source": "https://s3.eu-west-1.amazonaws.com/vz.orders/production/preview_items/vr_images/images/000/010/097/b/vr_cabana_pool_lawn_banquet_vr_view_1.jpg",
 									"loaded": false
 								}
 							}
 						}
 					}
 				},
-				"Classroom": {
+				"Banquet With Dance Floor": {
 					"capacities": {
 						"capacity1": {
 							"gallery": [],
 							"ambients": {
 								"ambient1": {
-									"source": "https://s3.eu-west-1.amazonaws.com/vz.orders/production/preview_items/vr_images/images/000/009/171/b/vr_cathedral_room_classroom_view_1.jpg",
+									"source": "https://s3.eu-west-1.amazonaws.com/vz.orders/production/preview_items/vr_images/images/000/010/098/b/vr_cabana_pool_lawn_banquet_vr_with_dancefloor.jpg",
 									"loaded": false
 								}
 							}
 						}
 					}
 				},
-				"Theatre": {
+				"Banquet With Reception": {
 					"capacities": {
 						"capacity1": {
 							"gallery": [],
 							"ambients": {
 								"ambient1": {
-									"source": "https://s3.eu-west-1.amazonaws.com/vz.orders/production/preview_items/vr_images/images/000/009/174/b/vr_cathedral_room_theater_view_1.jpg",
-									"loaded": false
-								}
-							}
-						}
-					}
-				},
-				"Wedding": {
-					"capacities": {
-						"capacity1": {
-							"gallery": [],
-							"ambients": {
-								"ambient1": {
-									"source": "https://s3.eu-west-1.amazonaws.com/vz.orders/production/preview_items/vr_images/images/000/009/175/b/vr_cathedral_room_wedding_view_1.jpg",
+									"source": "https://s3.eu-west-1.amazonaws.com/vz.orders/production/preview_items/vr_images/images/000/010/099/b/vr_cabana_pool_lawn_banquet_with_reception_vr_view_1.jpg",
 									"loaded": false
 								}
 							}
@@ -65,7 +52,7 @@
 							"gallery": [],
 							"ambients": {
 								"ambient1": {
-									"source": "https://s3.eu-west-1.amazonaws.com/vz.orders/production/preview_items/vr_images/images/000/009/173/b/vr_cathedral_room_reception_view_1.jpg",
+									"source": "https://s3.eu-west-1.amazonaws.com/vz.orders/production/preview_items/vr_images/images/000/010/100/b/vr_cabana_pool_lawn_reception_vr_view_1.jpg",
 									"loaded": false
 								}
 							}
@@ -78,7 +65,7 @@
 							"gallery": [],
 							"ambients": {
 								"ambient1": {
-									"source": "https://s3.eu-west-1.amazonaws.com/vz.orders/production/preview_items/vr_images/images/000/009/172/b/vr_cathedral_room_empty_view_1.jpg",
+									"source": "https://s3.eu-west-1.amazonaws.com/vz.orders/production/preview_items/vr_images/images/000/009/823/b/vr_cabana_pool_lawn_empty_vr_view_1.jpg",
 									"loaded": false
 								}
 							}
