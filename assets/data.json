@@ -1,6 +1,6 @@
 {
 	"title": "Boca Raton Resort Club",
-	"subTitle": "Venetian Ballroom and Terrace",
+	"subTitle": "Mizner Center Verandas",
 	"logoLink": "",
 	"thumbLink": "thumbnail.png",
 	"uiColor": "#51b5e0",
@@ -13,7 +13,7 @@
 							"gallery": [],
 							"ambients": {
 								"ambient1": {
-									"source": "https://s3.eu-west-1.amazonaws.com/vz.orders/production/preview_items/vr_images/images/000/010/148/b/vr_venetian_ballroom_terrace_banquet_vr_view_1.jpg",
+									"source": "https://s3.eu-west-1.amazonaws.com/vz.orders/production/preview_items/vr_images/images/000/010/124/b/vr_mizner_center_verandas_banquet_vr_view_1.jpg",
 									"loaded": false
 								}
 							}
@@ -26,7 +26,7 @@
 							"gallery": [],
 							"ambients": {
 								"ambient1": {
-									"source": "https://s3.eu-west-1.amazonaws.com/vz.orders/production/preview_items/vr_images/images/000/010/151/b/vr_venetian_ballroom_terrace_classroom_vr_view_1.jpg",
+									"source": "https://s3.eu-west-1.amazonaws.com/vz.orders/production/preview_items/vr_images/images/000/010/126/b/vr_mizner_center_verandas_classroom_vr_view_1.jpg",
 									"loaded": false
 								}
 							}
@@ -39,7 +39,7 @@
 							"gallery": [],
 							"ambients": {
 								"ambient1": {
-									"source": "https://s3.eu-west-1.amazonaws.com/vz.orders/production/preview_items/vr_images/images/000/010/152/b/vr_venetian_ballroom_terrace_theater_vr_view_1.jpg",
+									"source": "https://s3.eu-west-1.amazonaws.com/vz.orders/production/preview_items/vr_images/images/000/010/128/b/vr_mizner_center_verandas_theater_vr_view_1.jpg",
 									"loaded": false
 								}
 							}
@@ -52,7 +52,7 @@
 							"gallery": [],
 							"ambients": {
 								"ambient1": {
-									"source": "https://s3.eu-west-1.amazonaws.com/vz.orders/production/preview_items/vr_images/images/000/010/150/b/vr_venetian_ballroom_terrace_cabaret_vr_view_1.jpg",
+									"source": "https://s3.eu-west-1.amazonaws.com/vz.orders/production/preview_items/vr_images/images/000/010/125/b/vr_mizner_center_verandas_cabaret_vr_view_1.jpg",
 									"loaded": false
 								}
 							}
@@ -65,7 +65,7 @@
 							"gallery": [],
 							"ambients": {
 								"ambient1": {
-									"source": "https://s3.eu-west-1.amazonaws.com/vz.orders/production/preview_items/vr_images/images/000/010/139/b/vr_venetian_ballroom_terrace_u_shape_vr_view_1.jpg",
+									"source": "https://s3.eu-west-1.amazonaws.com/vz.orders/production/preview_items/vr_images/images/000/010/129/b/vr_mizner_center_verandas_u_shape_vr_view_1.jpg",
 									"loaded": false
 								}
 							}
@@ -78,7 +78,7 @@
 							"gallery": [],
 							"ambients": {
 								"ambient1": {
-									"source": "https://s3.eu-west-1.amazonaws.com/vz.orders/production/preview_items/vr_images/images/000/009/570/b/vr_venetian_ballroom_terrace_empty_vr_view_1.jpg",
+									"source": "https://s3.eu-west-1.amazonaws.com/vz.orders/production/preview_items/vr_images/images/000/009/653/b/vr_mizner_center_verandas_empty_vr_view_1.jpg",
 									"loaded": false
 								}
 							}
