@@ -1,45 +1,19 @@
 {
 	"title": "Boca Raton Resort Club",
-	"subTitle": "Cabana Pool Lawn",
+	"subTitle": "Cloister Garden",
 	"logoLink": "",
 	"thumbLink": "thumbnail.png",
 	"uiColor": "#51b5e0",
 	"locations": {
 		"location1": {
 			"styles": {
-				"Banquet": {
-					"capacities": {
-						"capacity1": {
-							"gallery": [],
-							"ambients": {
-								"ambient1": {
-									"source": "https://s3.eu-west-1.amazonaws.com/vz.orders/production/preview_items/vr_images/images/000/010/097/b/vr_cabana_pool_lawn_banquet_vr_view_1.jpg",
-									"loaded": false
-								}
-							}
-						}
-					}
-				},
-				"Banquet With Dance Floor": {
-					"capacities": {
-						"capacity1": {
-							"gallery": [],
-							"ambients": {
-								"ambient1": {
-									"source": "https://s3.eu-west-1.amazonaws.com/vz.orders/production/preview_items/vr_images/images/000/010/098/b/vr_cabana_pool_lawn_banquet_vr_with_dancefloor.jpg",
-									"loaded": false
-								}
-							}
-						}
-					}
-				},
 				"Banquet With Reception": {
 					"capacities": {
 						"capacity1": {
 							"gallery": [],
 							"ambients": {
 								"ambient1": {
-									"source": "https://s3.eu-west-1.amazonaws.com/vz.orders/production/preview_items/vr_images/images/000/010/099/b/vr_cabana_pool_lawn_banquet_with_reception_vr_view_1.jpg",
+									"source": "https://s3.eu-west-1.amazonaws.com/vz.orders/production/preview_items/vr_images/images/000/009/841/b/vr_cloister_garden_banquet_vr_with_reception.jpg",
 									"loaded": false
 								}
 							}
@@ -52,7 +26,20 @@
 							"gallery": [],
 							"ambients": {
 								"ambient1": {
-									"source": "https://s3.eu-west-1.amazonaws.com/vz.orders/production/preview_items/vr_images/images/000/010/100/b/vr_cabana_pool_lawn_reception_vr_view_1.jpg",
+									"source": "https://s3.eu-west-1.amazonaws.com/vz.orders/production/preview_items/vr_images/images/000/009/843/b/vr_cloister_garden_reception_vr_view_1.jpg",
+									"loaded": false
+								}
+							}
+						}
+					}
+				},
+				"Reception With Dance Floor": {
+					"capacities": {
+						"capacity1": {
+							"gallery": [],
+							"ambients": {
+								"ambient1": {
+									"source": "https://s3.eu-west-1.amazonaws.com/vz.orders/production/preview_items/vr_images/images/000/009/844/b/vr_cloister_garden_reception_vr_with_dancefloor.jpg",
 									"loaded": false
 								}
 							}
@@ -65,7 +52,7 @@
 							"gallery": [],
 							"ambients": {
 								"ambient1": {
-									"source": "https://s3.eu-west-1.amazonaws.com/vz.orders/production/preview_items/vr_images/images/000/009/823/b/vr_cabana_pool_lawn_empty_vr_view_1.jpg",
+									"source": "https://s3.eu-west-1.amazonaws.com/vz.orders/production/preview_items/vr_images/images/000/009/842/b/vr_cloister_garden_empty_vr_view_1.jpg",
 									"loaded": false
 								}
 							}
