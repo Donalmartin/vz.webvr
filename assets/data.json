@@ -1,6 +1,6 @@
 {
 	"title": "Boca Raton Resort Club",
-	"subTitle": "Valencia",
+	"subTitle": "Venetian Ballroom and Terrace",
 	"logoLink": "",
 	"thumbLink": "thumbnail.png",
 	"uiColor": "#51b5e0",
@@ -13,7 +13,7 @@
 							"gallery": [],
 							"ambients": {
 								"ambient1": {
-									"source": "https://s3.eu-west-1.amazonaws.com/vz.orders/production/preview_items/vr_images/images/000/010/143/b/vr_valencia_banquet_vr_view_1.jpg",
+									"source": "https://s3.eu-west-1.amazonaws.com/vz.orders/production/preview_items/vr_images/images/000/010/148/b/vr_venetian_ballroom_terrace_banquet_vr_view_1.jpg",
 									"loaded": false
 								}
 							}
@@ -26,7 +26,7 @@
 							"gallery": [],
 							"ambients": {
 								"ambient1": {
-									"source": "https://s3.eu-west-1.amazonaws.com/vz.orders/production/preview_items/vr_images/images/000/010/145/b/vr_valencia_classroom_vr_view_1.jpg",
+									"source": "https://s3.eu-west-1.amazonaws.com/vz.orders/production/preview_items/vr_images/images/000/010/151/b/vr_venetian_ballroom_terrace_classroom_vr_view_1.jpg",
 									"loaded": false
 								}
 							}
@@ -39,7 +39,7 @@
 							"gallery": [],
 							"ambients": {
 								"ambient1": {
-									"source": "https://s3.eu-west-1.amazonaws.com/vz.orders/production/preview_items/vr_images/images/000/010/146/b/vr_valencia_theater_vr_view_1.jpg",
+									"source": "https://s3.eu-west-1.amazonaws.com/vz.orders/production/preview_items/vr_images/images/000/010/152/b/vr_venetian_ballroom_terrace_theater_vr_view_1.jpg",
 									"loaded": false
 								}
 							}
@@ -52,7 +52,7 @@
 							"gallery": [],
 							"ambients": {
 								"ambient1": {
-									"source": "https://s3.eu-west-1.amazonaws.com/vz.orders/production/preview_items/vr_images/images/000/010/144/b/vr_valencia_cabaret_vr_view_1.jpg",
+									"source": "https://s3.eu-west-1.amazonaws.com/vz.orders/production/preview_items/vr_images/images/000/010/150/b/vr_venetian_ballroom_terrace_cabaret_vr_view_1.jpg",
 									"loaded": false
 								}
 							}
@@ -65,7 +65,7 @@
 							"gallery": [],
 							"ambients": {
 								"ambient1": {
-									"source": "https://s3.eu-west-1.amazonaws.com/vz.orders/production/preview_items/vr_images/images/000/010/147/b/vr_valencia_u_shape_vr_view_1.jpg",
+									"source": "https://s3.eu-west-1.amazonaws.com/vz.orders/production/preview_items/vr_images/images/000/010/139/b/vr_venetian_ballroom_terrace_u_shape_vr_view_1.jpg",
 									"loaded": false
 								}
 							}
@@ -78,7 +78,7 @@
 							"gallery": [],
 							"ambients": {
 								"ambient1": {
-									"source": "https://s3.eu-west-1.amazonaws.com/vz.orders/production/preview_items/vr_images/images/000/009/604/b/vr_valencia_empty_vr_view_1.jpg",
+									"source": "https://s3.eu-west-1.amazonaws.com/vz.orders/production/preview_items/vr_images/images/000/009/570/b/vr_venetian_ballroom_terrace_empty_vr_view_1.jpg",
 									"loaded": false
 								}
 							}
