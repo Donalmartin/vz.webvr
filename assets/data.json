@@ -1,6 +1,6 @@
 {
 	"title": "Boca Raton Resort Club",
-	"subTitle": "Galleria",
+	"subTitle": "Estate",
 	"logoLink": "",
 	"thumbLink": "thumbnail.png",
 	"uiColor": "#51b5e0",
@@ -13,7 +13,7 @@
 							"gallery": [],
 							"ambients": {
 								"ambient1": {
-									"source": "https://s3.eu-west-1.amazonaws.com/vz.orders/production/preview_items/vr_images/images/000/010/115/b/vr_galleria_banquet_vr_view_1.jpg",
+									"source": "https://s3.eu-west-1.amazonaws.com/vz.orders/production/preview_items/vr_images/images/000/010/107/b/vr_estate_1_2_3_banquet_vr_view_1.jpg",
 									"loaded": false
 								}
 							}
@@ -26,7 +26,7 @@
 							"gallery": [],
 							"ambients": {
 								"ambient1": {
-									"source": "https://s3.eu-west-1.amazonaws.com/vz.orders/production/preview_items/vr_images/images/000/010/117/b/vr_galleria_classroom_vr_view_1.jpg",
+									"source": "https://s3.eu-west-1.amazonaws.com/vz.orders/production/preview_items/vr_images/images/000/010/109/b/vr_estate_1_2_3_classroom_vr_view_1.jpg",
 									"loaded": false
 								}
 							}
@@ -39,7 +39,7 @@
 							"gallery": [],
 							"ambients": {
 								"ambient1": {
-									"source": "https://s3.eu-west-1.amazonaws.com/vz.orders/production/preview_items/vr_images/images/000/010/118/b/vr_galleria_theater_vr_view_1.jpg",
+									"source": "https://s3.eu-west-1.amazonaws.com/vz.orders/production/preview_items/vr_images/images/000/010/087/b/vr_estate_1_2_3_theater_vr_view_1.jpg",
 									"loaded": false
 								}
 							}
@@ -52,7 +52,7 @@
 							"gallery": [],
 							"ambients": {
 								"ambient1": {
-									"source": "https://s3.eu-west-1.amazonaws.com/vz.orders/production/preview_items/vr_images/images/000/010/116/b/vr_galleria_cabaret_vr_view_1.jpg",
+									"source": "https://s3.eu-west-1.amazonaws.com/vz.orders/production/preview_items/vr_images/images/000/010/108/b/vr_estate_1_2_3_cabaret_vr_view_1.jpg",
 									"loaded": false
 								}
 							}
@@ -65,7 +65,7 @@
 							"gallery": [],
 							"ambients": {
 								"ambient1": {
-									"source": "https://s3.eu-west-1.amazonaws.com/vz.orders/production/preview_items/vr_images/images/000/009/596/b/vr_galleria_empty_vr_view_1.jpg",
+									"source": "https://s3.eu-west-1.amazonaws.com/vz.orders/production/preview_items/vr_images/images/000/009/632/b/vr_estate_1_2_3_empty_vr_view_1.jpg",
 									"loaded": false
 								}
 							}
