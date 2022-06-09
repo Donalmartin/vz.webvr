@@ -1,6 +1,6 @@
 {
 	"title": "Boca Raton Resort Club",
-	"subTitle": "Grand Preassembly",
+	"subTitle": "Royal Ballroom",
 	"logoLink": "",
 	"thumbLink": "thumbnail.png",
 	"uiColor": "#51b5e0",
@@ -13,20 +13,33 @@
 							"gallery": [],
 							"ambients": {
 								"ambient1": {
-									"source": "https://s3.eu-west-1.amazonaws.com/vz.orders/production/preview_items/vr_images/images/000/009/649/b/vr_grand_preassembly_banquet_vr_view_1.jpg",
+									"source": "https://s3.eu-west-1.amazonaws.com/vz.orders/production/preview_items/vr_images/images/000/009/165/b/vr_royal_ballroom_banquet_view_1.jpg",
 									"loaded": false
 								}
 							}
 						}
 					}
 				},
-				"Reception": {
+				"Classroom": {
 					"capacities": {
 						"capacity1": {
 							"gallery": [],
 							"ambients": {
 								"ambient1": {
-									"source": "https://s3.eu-west-1.amazonaws.com/vz.orders/production/preview_items/vr_images/images/000/009/647/b/vr_grand_preassembly_reception_vr_view_1.jpg",
+									"source": "https://s3.eu-west-1.amazonaws.com/vz.orders/production/preview_items/vr_images/images/000/009/166/b/vr_royal_ballroom_classroom_view_1.jpg",
+									"loaded": false
+								}
+							}
+						}
+					}
+				},
+				"Theatre": {
+					"capacities": {
+						"capacity1": {
+							"gallery": [],
+							"ambients": {
+								"ambient1": {
+									"source": "https://s3.eu-west-1.amazonaws.com/vz.orders/production/preview_items/vr_images/images/000/009/168/b/vr_royal_ballroom_theater_view_1.jpg",
 									"loaded": false
 								}
 							}
@@ -39,7 +52,7 @@
 							"gallery": [],
 							"ambients": {
 								"ambient1": {
-									"source": "https://s3.eu-west-1.amazonaws.com/vz.orders/production/preview_items/vr_images/images/000/009/648/b/vr_grand_preassembly_empty_vr_view_1.jpg",
+									"source": "https://s3.eu-west-1.amazonaws.com/vz.orders/production/preview_items/vr_images/images/000/009/164/b/vr_royal_ballroom_empty_view_1.jpg",
 									"loaded": false
 								}
 							}
