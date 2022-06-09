@@ -1,45 +1,32 @@
 {
 	"title": "Boca Raton Resort Club",
-	"subTitle": "Addison",
+	"subTitle": "Grand Ballroom",
 	"logoLink": "",
 	"thumbLink": "thumbnail.png",
 	"uiColor": "#51b5e0",
 	"locations": {
 		"location1": {
 			"styles": {
-				"Banquet": {
-					"capacities": {
-						"capacity1": {
-							"gallery": [],
-							"ambients": {
-								"ambient1": {
-									"source": "https://s3.eu-west-1.amazonaws.com/vz.orders/production/preview_items/vr_images/images/000/010/088/b/vr_addison_banquet_vr_view_1.jpg",
-									"loaded": false
-								}
-							}
-						}
-					}
-				},
 				"Classroom": {
 					"capacities": {
 						"capacity1": {
 							"gallery": [],
 							"ambients": {
 								"ambient1": {
-									"source": "https://s3.eu-west-1.amazonaws.com/vz.orders/production/preview_items/vr_images/images/000/010/090/b/vr_addison_classroom_vr_view_1.jpg",
+									"source": "https://s3.eu-west-1.amazonaws.com/vz.orders/production/preview_items/vr_images/images/000/010/122/b/vr_grand_ballroom_classroom_vr_view_1.jpg",
 									"loaded": false
 								}
 							}
 						}
 					}
 				},
-				"Theatre": {
+				"Cabaret Rounds 8 Pax": {
 					"capacities": {
 						"capacity1": {
 							"gallery": [],
 							"ambients": {
 								"ambient1": {
-									"source": "https://s3.eu-west-1.amazonaws.com/vz.orders/production/preview_items/vr_images/images/000/010/091/b/vr_addison_theater_vr_view_1.jpg",
+									"source": "https://s3.eu-west-1.amazonaws.com/vz.orders/production/preview_items/vr_images/images/000/010/119/b/vr_grand_ballroom_cabaret_vr_rounds_8_pax.jpg",
 									"loaded": false
 								}
 							}
@@ -52,7 +39,33 @@
 							"gallery": [],
 							"ambients": {
 								"ambient1": {
-									"source": "https://s3.eu-west-1.amazonaws.com/vz.orders/production/preview_items/vr_images/images/000/010/089/b/vr_addison_cabaret_vr_view_1.jpg",
+									"source": "https://s3.eu-west-1.amazonaws.com/vz.orders/production/preview_items/vr_images/images/000/010/120/b/vr_grand_ballroom_cabaret_vr_view_1.jpg",
+									"loaded": false
+								}
+							}
+						}
+					}
+				},
+				"Classroom Cabaret": {
+					"capacities": {
+						"capacity1": {
+							"gallery": [],
+							"ambients": {
+								"ambient1": {
+									"source": "https://s3.eu-west-1.amazonaws.com/vz.orders/production/preview_items/vr_images/images/000/010/121/b/vr_grand_ballroom_classroom_vr_cabaret.jpg",
+									"loaded": false
+								}
+							}
+						}
+					}
+				},
+				"Theatre": {
+					"capacities": {
+						"capacity1": {
+							"gallery": [],
+							"ambients": {
+								"ambient1": {
+									"source": "https://s3.eu-west-1.amazonaws.com/vz.orders/production/preview_items/vr_images/images/000/010/123/b/vr_grand_ballroom_theater_vr_exhibition.jpg",
 									"loaded": false
 								}
 							}
@@ -65,7 +78,7 @@
 							"gallery": [],
 							"ambients": {
 								"ambient1": {
-									"source": "https://s3.eu-west-1.amazonaws.com/vz.orders/production/preview_items/vr_images/images/000/009/623/b/vr_addison_empty_vr_view_1.jpg",
+									"source": "https://s3.eu-west-1.amazonaws.com/vz.orders/production/preview_items/vr_images/images/000/009/853/b/vr_grand_ballroom_empty_vr_view_1.jpg",
 									"loaded": false
 								}
 							}
