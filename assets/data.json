@@ -1,6 +1,6 @@
 {
 	"title": "Boca Raton Resort Club",
-	"subTitle": "Croquet Lawn",
+	"subTitle": "Grand Lawn",
 	"logoLink": "",
 	"thumbLink": "thumbnail.png",
 	"uiColor": "#51b5e0",
@@ -13,33 +13,46 @@
 							"gallery": [],
 							"ambients": {
 								"ambient1": {
-									"source": "https://s3.eu-west-1.amazonaws.com/vz.orders/production/preview_items/vr_images/images/000/009/874/b/vr_croquet_lawn_banquet_vr_view_1.jpg",
+									"source": "https://s3.eu-west-1.amazonaws.com/vz.orders/production/preview_items/vr_images/images/000/009/585/b/vr_grand_lawn_banquet_vr_view_1.jpg",
 									"loaded": false
 								}
 							}
 						}
 					}
 				},
-				"Banquet With Reception": {
+				"Wedding": {
 					"capacities": {
 						"capacity1": {
 							"gallery": [],
 							"ambients": {
 								"ambient1": {
-									"source": "https://s3.eu-west-1.amazonaws.com/vz.orders/production/preview_items/vr_images/images/000/009/875/b/vr_croquet_lawn_banquet_vr_with_reception.jpg",
+									"source": "https://s3.eu-west-1.amazonaws.com/vz.orders/production/preview_items/vr_images/images/000/009/584/b/vr_grand_lawn_wedding_vr_view_1.jpg",
 									"loaded": false
 								}
 							}
 						}
 					}
 				},
-				"Reception": {
+				"Reception Small": {
 					"capacities": {
 						"capacity1": {
 							"gallery": [],
 							"ambients": {
 								"ambient1": {
-									"source": "https://s3.eu-west-1.amazonaws.com/vz.orders/production/preview_items/vr_images/images/000/009/877/b/vr_croquet_lawn_reception_vr_view_1.jpg",
+									"source": "https://s3.eu-west-1.amazonaws.com/vz.orders/production/preview_items/vr_images/images/000/009/583/b/vr_grand_lawn_reception_vr_small_view_1.jpg",
+									"loaded": false
+								}
+							}
+						}
+					}
+				},
+				"Reception Large": {
+					"capacities": {
+						"capacity1": {
+							"gallery": [],
+							"ambients": {
+								"ambient1": {
+									"source": "https://s3.eu-west-1.amazonaws.com/vz.orders/production/preview_items/vr_images/images/000/009/582/b/vr_grand_lawn_reception_vr_large_view_1.jpg",
 									"loaded": false
 								}
 							}
@@ -52,7 +65,7 @@
 							"gallery": [],
 							"ambients": {
 								"ambient1": {
-									"source": "https://s3.eu-west-1.amazonaws.com/vz.orders/production/preview_items/vr_images/images/000/009/876/b/vr_croquet_lawn_empty_vr_view_1.jpg",
+									"source": "https://s3.eu-west-1.amazonaws.com/vz.orders/production/preview_items/vr_images/images/000/009/586/b/vr_grand_lawn_empty_vr_view_1.jpg",
 									"loaded": false
 								}
 							}
