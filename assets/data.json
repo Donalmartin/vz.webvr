@@ -1,6 +1,6 @@
 {
 	"title": "Boca Raton Resort Club",
-	"subTitle": "Royal Preassembly",
+	"subTitle": "Spanish Terrace",
 	"logoLink": "",
 	"thumbLink": "thumbnail.png",
 	"uiColor": "#51b5e0",
@@ -13,7 +13,7 @@
 							"gallery": [],
 							"ambients": {
 								"ambient1": {
-									"source": "https://s3.eu-west-1.amazonaws.com/vz.orders/production/preview_items/vr_images/images/000/009/642/b/vr_royal_preassembly_banquet_vr_view_1.jpg",
+									"source": "https://s3.eu-west-1.amazonaws.com/vz.orders/production/preview_items/vr_images/images/000/010/140/b/vr_spanish_terrace_banquet_vr_view_1.jpg",
 									"loaded": false
 								}
 							}
@@ -26,7 +26,20 @@
 							"gallery": [],
 							"ambients": {
 								"ambient1": {
-									"source": "https://s3.eu-west-1.amazonaws.com/vz.orders/production/preview_items/vr_images/images/000/009/641/b/vr_royal_preassembly_reception_vr_view_1.jpg",
+									"source": "https://s3.eu-west-1.amazonaws.com/vz.orders/production/preview_items/vr_images/images/000/010/142/b/vr_spanish_terrace_reception_vr_view_1.jpg",
+									"loaded": false
+								}
+							}
+						}
+					}
+				},
+				"Reception Party": {
+					"capacities": {
+						"capacity1": {
+							"gallery": [],
+							"ambients": {
+								"ambient1": {
+									"source": "https://s3.eu-west-1.amazonaws.com/vz.orders/production/preview_items/vr_images/images/000/010/141/b/vr_spanish_terrace_reception_vr_party.jpg",
 									"loaded": false
 								}
 							}
@@ -39,7 +52,7 @@
 							"gallery": [],
 							"ambients": {
 								"ambient1": {
-									"source": "https://s3.eu-west-1.amazonaws.com/vz.orders/production/preview_items/vr_images/images/000/009/640/b/vr_royal_preassembly_empty_vr_view_1.jpg",
+									"source": "https://s3.eu-west-1.amazonaws.com/vz.orders/production/preview_items/vr_images/images/000/009/899/b/vr_spanish_terrace_empty_vr_view_1.jpg",
 									"loaded": false
 								}
 							}
